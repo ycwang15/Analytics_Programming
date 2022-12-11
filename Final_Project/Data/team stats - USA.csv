@@ -1,0 +1,178 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Referee
+2021-09-02,20:05 (22:05),WCQ,Third round,Thu,Away,D,0,0,sv El Salvador,,,,"29,000",Tyler Adams,,Juan Gabriel Calderón
+2021-09-05,19:12 (20:12),WCQ,Third round,Sun,Home,D,1,1,ca Canada,,,,"43,028",Christian Pulisic,4-1-4-1,Oshane Nation
+2021-09-08,20:30 (22:30),WCQ,Third round,Wed,Away,W,4,1,hn Honduras,,,,"31,000",Christian Pulisic,3-4-3,Fernando Hernández
+2021-10-07,18:45 (19:45),WCQ,Third round,Thu,Home,W,2,0,jm Jamaica,,,,"20,500",Tyler Adams,4-1-4-1,Reon Radix
+2021-10-10,17:05 (18:05),WCQ,Third round,Sun,Away,L,0,1,pa Panama,,,,"16,228",Walker Zimmerman,4-1-4-1,César Arturo Ramos
+2021-10-13,19:00,WCQ,Third round,Wed,Home,W,2,1,cr Costa Rica,,,,"20,165",Tyler Adams,4-1-4-1,Daneon Parchment
+2021-11-12,21:10,WCQ,Third round,Fri,Home,W,2,0,mx Mexico,,,,"26,000",Tyler Adams,4-1-4-1,Iván Barton
+2021-11-16,17:00,WCQ,Third round,Tue,Away,D,1,1,jm Jamaica,,,,"4,100",Tyler Adams,4-1-4-1,Juan Gabriel Calderón
+2022-01-27,19:00,WCQ,Third round,Thu,Home,W,1,0,sv El Salvador,,,,"20,000",Christian Pulisic,4-1-4-1,Bryan López
+2022-01-30,15:05,WCQ,Third round,Sun,Away,L,0,2,ca Canada,,,,"12,000",Tyler Adams,4-1-4-1,César Arturo Ramos
+2022-02-02,18:30 (19:30),WCQ,Third round,Wed,Home,W,3,0,hn Honduras,,,,"19,202",Walker Zimmerman,4-1-4-1,Oshane Nation
+2022-03-24,20:00 (22:00),WCQ,Third round,Thu,Away,D,0,0,mx Mexico,,,,"47,000",Tyler Adams,4-1-4-1,Mario Escobar
+2022-03-27,19:00,WCQ,Third round,Sun,Home,W,5,1,pa Panama,,,,"25,022",Christian Pulisic,4-1-4-1,Iván Barton
+2022-03-30,19:05 (21:05),WCQ,Third round,Wed,Away,L,0,2,cr Costa Rica,,,,"35,000",Walker Zimmerman,4-1-4-1,Drew Fischer
+2022-06-01,19:30,Friendlies (M),Friendlies (M),Wed,Neutral,W,3,0,ma Morocco,,,,"19,512",Christian Pulisic,4-1-4-1,Ismael Cornejo
+2022-09-23,14:25 (08:25),Friendlies (M),Friendlies (M),Fri,Neutral,L,0,2,jp Japan,,,,"5,149",Walker Zimmerman,4-1-4-1,Felix Zwayer
+2022-09-27,20:00 (14:00),Friendlies (M),Friendlies (M),Tue,Neutral,D,0,0,sa Saudi Arabia,,,,364,Christian Pulisic,4-3-3,Ivan Bebek
+2022-11-21,22:00 (14:00),World Cup,Group stage,Mon,Neutral,D,1,1,wls Wales,0.8,1.5,58,"43,418",Tyler Adams,4-3-3,Abdulrahman Ibrahim Al Jassim
+2022-11-25,22:00 (14:00),World Cup,Group stage,Fri,Neutral,D,0,0,eng England,0.6,0.8,45,"68,463",Tyler Adams,4-4-2,Jesús Valenzuela
+2022-11-29,22:00 (14:00),World Cup,Group stage,Tue,Neutral,W,1,0,ir IR Iran,1.2,0.4,51,"42,127",Tyler Adams,4-3-3,Antonio Matéu
+2021-01-31,19:00,Friendlies (M),Friendlies (M),Sun,Home,W,7,0,tt Trin & Tobago,,,,"3,503",Aaron Long,4-1-4-1,Said Martínez
+2021-03-25,18:20 (13:20),Friendlies (M),Friendlies (M),Thu,Home,W,4,1,jm Jamaica,,,,,Zack Steffen,4-3-4,Christian-Petru Ciochirca
+2021-03-28,17:05 (12:05),Friendlies (M),Friendlies (M),Sun,Away,W,2,1,nir Northern Ireland,,,,,Christian Pulisic,3-4-3,Rob Jenkins
+2021-05-30,20:15 (14:15),Friendlies (M),Friendlies (M),Sun,Away,L,1,2,ch Switzerland,,,,,Weston McKennie,4-1-4-1,Harm Osmers
+2021-06-09,17:00 (19:00),Friendlies (M),Friendlies (M),Wed,Home,W,4,0,cr Costa Rica,,,,"19,007",Tyler Adams,4-1-4-1,Tristley Bassue
+2021-07-11,19:30 (20:30),Gold Cup,Group stage,Sun,Home,W,1,0,ht Haiti,,,63,"12,664",Sebastian Lletget,4-3-3,Said Martínez
+2021-07-15,20:30 (21:30),Gold Cup,Group stage,Thu,Away,W,6,1,mq Martinique,,,65,,Walker Zimmerman,3-4-1-2,Mario Escobar
+2021-07-18,16:00 (17:00),Gold Cup,Group stage,Sun,Home,W,1,0,ca Canada,,,46,,Walker Zimmerman,5-3-2,Adonai Escobedo
+2021-07-25,20:30 (21:30),Gold Cup,Quarter-finals,Sun,Home,W,1,0,jm Jamaica,,,67,,Paul Arriola,4-3-3,César Arturo Ramos
+2021-07-29,18:30 (19:30),Gold Cup,Semi-finals,Thu,Away,W,1,0,qa Qatar,,,58,,Sebastian Lletget,4-3-3,Juan Gabriel Calderón
+2021-08-01,17:30 (20:30),Gold Cup,Final,Sun,Home,W,1,0,mx Mexico,,,37,,Paul Arriola,4-3-3,Said Martínez
+2021-09-02,20:05 (22:05),WCQ,Third round,Thu,Away,D,0,0,sv El Salvador,,,,"29,000",Tyler Adams,,Juan Gabriel Calderón
+2021-09-05,19:12 (20:12),WCQ,Third round,Sun,Home,D,1,1,ca Canada,,,,"43,028",Christian Pulisic,4-1-4-1,Oshane Nation
+2021-09-08,20:30 (22:30),WCQ,Third round,Wed,Away,W,4,1,hn Honduras,,,,"31,000",Christian Pulisic,3-4-3,Fernando Hernández
+2021-10-07,18:45 (19:45),WCQ,Third round,Thu,Home,W,2,0,jm Jamaica,,,,"20,500",Tyler Adams,4-1-4-1,Reon Radix
+2021-10-10,17:05 (18:05),WCQ,Third round,Sun,Away,L,0,1,pa Panama,,,,"16,228",Walker Zimmerman,4-1-4-1,César Arturo Ramos
+2021-10-13,19:00,WCQ,Third round,Wed,Home,W,2,1,cr Costa Rica,,,,"20,165",Tyler Adams,4-1-4-1,Daneon Parchment
+2021-11-12,21:10,WCQ,Third round,Fri,Home,W,2,0,mx Mexico,,,,"26,000",Tyler Adams,4-1-4-1,Iván Barton
+2021-11-16,17:00,WCQ,Third round,Tue,Away,D,1,1,jm Jamaica,,,,"4,100",Tyler Adams,4-1-4-1,Juan Gabriel Calderón
+2021-12-18,17:15 (20:15),Friendlies (M),Friendlies (M),Sat,Home,W,1,0,ba Bosnia & Herz'na,,,,"11,044",Walker Zimmerman,4-1-4-1,Keylor Herrera
+2020-02-01,12:55 (15:55),Friendlies (M),Friendlies (M),Sat,Home,W,1,0,cr Costa Rica,,,,"9,172",Aaron Long,4-1-4-1,Oshane Nation
+2020-11-12,19:45 (14:45),Friendlies (M),Friendlies (M),Thu,Away,D,0,0,wls Wales,,,,,Zack Steffen,4-1-4-1,Nick Walsh
+2020-11-16,20:45 (14:45),Friendlies (M),Friendlies (M),Mon,Home,W,6,2,pa Panama,,,,,Tim Ream,4-1-4-1,Harald Lechner
+2020-12-09,19:30,Friendlies (M),Friendlies (M),Wed,Home,W,6,0,sv El Salvador,,,,,Aaron Long,4-1-4-1,José Torres
+2019-01-27,18:00 (20:00),Friendlies (M),Friendlies (M),Sun,Home,W,3,0,pa Panama,,,,"9,040",Aaron Long,3-4-3,Adonai Escobedo
+2019-02-02,12:50 (15:50),Friendlies (M),Friendlies (M),Sat,Home,W,2,0,cr Costa Rica,,,,"13,656",Aaron Long,4-1-4-1,Fernando Hernández
+2019-03-21,20:00,Friendlies (M),Friendlies (M),Thu,Home,W,1,0,ec Ecuador,,,,"17,422",Tim Ream,4-1-4-1,David Gantar
+2019-03-26,18:55 (19:55),Friendlies (M),Friendlies (M),Tue,Home,D,1,1,cl Chile,,,,"18,033",DeAndre Yedlin,4-1-4-1,Daneon Parchment
+2019-06-05,19:00,Friendlies (M),Friendlies (M),Wed,Home,L,0,1,jm Jamaica,,,,"17,719",Matt Miazga,4-4-2,Kimbell Ward
+2019-06-09,14:00,Friendlies (M),Friendlies (M),Sun,Home,L,0,3,ve Venezuela,,,,"23,955",Wil Trapp,3-4-1-2,Bryan López
+2019-06-18,21:00 (22:00),Gold Cup,Group stage,Tue,Home,W,4,0,gy Guyana,,,60,"19,418",Michael Bradley,4-3-3,Iván Barton
+2019-06-22,20:00,Gold Cup,Group stage,Sat,Home,W,6,0,tt Trin & Tobago,,,66,"23,921",Zack Steffen,4-1-4-1,Héctor Martínez
+2019-06-26,20:00 (21:00),Gold Cup,Group stage,Wed,Away,W,1,0,pa Panama,,,62,"17,037",Omar Gonzalez,4-1-4-1,Abdelrahman Al Jassim
+2019-06-30,20:00,Gold Cup,Quarter-finals,Sun,Home,W,1,0,cw Curaçao,,,48,"26,233",Christian Pulisic,4-3-3,Adonai Escobedo
+2019-07-03,20:30 (21:30),Gold Cup,Semi-finals,Wed,Away,W,3,1,jm Jamaica,,,51,"28,473",Tim Ream,4-3-3,Adonai Escobedo
+2019-07-07,20:00 (21:00),Gold Cup,Final,Sun,Away,L,0,1,mx Mexico,,,43,"62,493",Weston McKennie,4-3-3,Mario Escobar
+2019-09-06,20:30,Friendlies (M),Friendlies (M),Fri,Home,L,0,3,mx Mexico,,,,"47,960",Zack Steffen,4-4-2,Joel Aguilar
+2019-09-10,19:00 (20:00),Friendlies (M),Friendlies (M),Tue,Home,D,1,1,uy Uruguay,,,,"20,625",Tim Ream,4-3-3,Ricardo Montero
+2015-11-13,18:10 (19:10),WCQ,Fourth round,Fri,Home,W,6,1,vc St. Vincent,,,,"43,433",,,Jeffrey Solís
+2015-11-17,19:30 (18:30),WCQ,Fourth round,Tue,Away,D,0,0,tt Trin & Tobago,,,,"18,500",,,César Arturo Ramos
+2016-03-25,20:06 (22:06),WCQ,Fourth round,Fri,Away,L,0,2,gt Guatemala,,,,"18,313",,,Jafeth Perea
+2016-03-29,19:25,WCQ,Fourth round,Tue,Home,W,4,0,gt Guatemala,,,,"20,654",,,Valdin Legister
+2016-09-02,15:30,WCQ,Fourth round,Fri,Away,W,6,0,vc St. Vincent,,,,"6,200",,,Mathieu Bourdeau
+2016-09-06,20:15,WCQ,Fourth round,Tue,Home,W,4,0,tt Trin & Tobago,,,,"19,410",,,Ricardo Montero
+2016-11-11,20:01,WCQ,Fifth round,Fri,Home,L,1,2,mx Mexico,,,,"24,640",,,Walter López
+2016-11-15,20:05 (21:05),WCQ,Fifth round,Tue,Away,L,0,4,cr Costa Rica,,,,"35,422",,,César Ramos
+2017-03-24,19:30 (22:30),WCQ,Fifth round,Fri,Home,W,6,0,hn Honduras,,,,"17,729",,,Walter López
+2017-03-28,21:05 (22:05),WCQ,Fifth round,Tue,Away,D,1,1,pa Panama,,,,"23,052",,,César Ramos
+2017-06-08,18:00 (20:00),WCQ,Fifth round,Thu,Home,W,2,0,tt Trin & Tobago,,,,"19,188",,,Oscar Moncada
+2017-06-11,19:30 (20:30),WCQ,Fifth round,Sun,Away,D,1,1,mx Mexico,,,,"71,537",,,Joel Aguilar
+2017-09-01,18:55,WCQ,Fifth round,Fri,Home,L,0,2,cr Costa Rica,,,,"26,500",Michael Bradley,4-4-2,John Pitti
+2017-09-05,15:36 (17:36),WCQ,Fifth round,Tue,Away,D,1,1,hn Honduras,,,,"30,000",Michael Bradley,4-2-3-1,Joel Aguilar
+2017-10-06,19:35,WCQ,Fifth round,Fri,Home,W,4,0,pa Panama,,,,"25,303",Michael Bradley,4-4-2,Roberto García
+2017-10-10,20:00,WCQ,Fifth round,Tue,Away,L,1,2,tt Trin & Tobago,,,,"1,500",Michael Bradley,4-4-2,Marlon Mejia
+2018-01-28,18:30 (21:30),Friendlies (M),Friendlies (M),Sun,Home,D,0,0,ba Bosnia & Herz'na,,,,"11,161",Wil Trapp,4-1-4-1,Héctor Martínez
+2018-03-27,19:30,Friendlies (M),Friendlies (M),Tue,Home,W,1,0,py Paraguay,,,,"9,895",Wil Trapp,4-1-4-1,Kimbell Ward
+2018-05-28,18:30,Friendlies (M),Friendlies (M),Mon,Home,W,3,0,bo Bolivia,,,,"11,882",Eric Lichaj,4-1-4-1,Oshane Nation
+2018-06-02,20:08 (15:08),Friendlies (M),Friendlies (M),Sat,Away,L,1,2,ie Rep. of Ireland,,,,"32,300",Wil Trapp,4-1-4-1,Andrew Dallas
+2018-06-09,21:00 (15:00),Friendlies (M),Friendlies (M),Sat,Away,D,1,1,fr France,,,,"58,241",Wil Trapp,5-3-2,William Collum
+2018-09-07,19:30,Friendlies (M),Friendlies (M),Fri,Home,L,0,2,br Brazil,,,,"32,489",Wil Trapp,4-1-4-1,Fernando Guerrero
+2018-09-11,19:30 (20:30),Friendlies (M),Friendlies (M),Tue,Home,W,1,0,mx Mexico,,,,"40,194",Wil Trapp,4-1-4-1,Ricardo Montero
+2018-10-11,19:30,Friendlies (M),Friendlies (M),Thu,Home,L,2,4,co Colombia,,,,"38,631",Michael Bradley,4-2-3-1,John Pitti
+2018-10-16,19:30,Friendlies (M),Friendlies (M),Tue,Home,D,1,1,pe Peru,,,,,Wil Trapp,4-1-4-1,Iván Barton
+2018-11-15,20:00 (15:00),Friendlies (M),Friendlies (M),Thu,Away,L,0,3,eng England,,,,"68,155",Wil Trapp,4-2-3-1,Jesús Gil
+2018-11-20,20:45 (14:45),Friendlies (M),Friendlies (M),Tue,Away,L,0,1,it Italy,,,,"13,500",Christian Pulisic,3-1-4-2,Cüneyt Çakιr
+2017-01-29,13:00 (16:00),Friendlies (M),Friendlies (M),Sun,Home,D,0,0,rs Serbia,,,,"20,079",Michael Bradley,4-2-3-1,Kevin Morrison
+2017-02-03,19:00,Friendlies (M),Friendlies (M),Fri,Home,W,1,0,jm Jamaica,,,,"17,903",Graham Zusi,4-1-3-2,Jafeth Perea
+2017-03-24,19:30 (22:30),WCQ,Fifth round,Fri,Home,W,6,0,hn Honduras,,,,"17,729",,,Walter López
+2017-03-28,21:05 (22:05),WCQ,Fifth round,Tue,Away,D,1,1,pa Panama,,,,"23,052",,,César Ramos
+2017-06-03,20:00 (22:00),Friendlies (M),Friendlies (M),Sat,Home,D,1,1,ve Venezuela,,,,"17,315",Michael Bradley,4-4-2,Jeffrey Solís
+2017-06-08,18:00 (20:00),WCQ,Fifth round,Thu,Home,W,2,0,tt Trin & Tobago,,,,"19,188",,,Oscar Moncada
+2017-06-11,19:30 (20:30),WCQ,Fifth round,Sun,Away,D,1,1,mx Mexico,,,,"71,537",,,Joel Aguilar
+2017-07-01,16:45,Friendlies (M),Friendlies (M),Sat,Home,W,2,1,gh Ghana,,,,"28,754",Brad Guzan,4-4-1-1,Ismael Cornejo
+2017-07-08,15:30 (16:30),Gold Cup,Group stage,Sat,Home,D,1,1,pa Panama,,,51,"47,622",Alejandro Bedoya,4-2-3-1,Fernando Guerrero
+2017-07-12,21:00,Gold Cup,Group stage,Wed,Home,W,3,2,mq Martinique,,,62,"23,368",Brad Guzan,4-4-2,Henry Bejarano
+2017-07-15,19:00,Gold Cup,Group stage,Sat,Away,W,3,0,ni Nicaragua,,,55,"27,934",Alejandro Bedoya,4-2-3-1,Melvin Matamoros
+2017-07-19,21:00,Gold Cup,Quarter-finals,Wed,Home,W,2,0,sv El Salvador,,,59,"31,615",Michael Bradley,4-4-2,Drew Fischer
+2017-07-22,21:00 (22:00),Gold Cup,Semi-finals,Sat,Away,W,2,0,cr Costa Rica,,,57,"45,516",Michael Bradley,4-4-2,Joel Aguilar
+2017-07-26,18:30 (21:30),Gold Cup,Final,Wed,Home,W,2,1,jm Jamaica,,,73,"63,032",Michael Bradley,4-4-2,Walter López
+2017-09-01,18:55,WCQ,Fifth round,Fri,Home,L,0,2,cr Costa Rica,,,,"26,500",Michael Bradley,4-4-2,John Pitti
+2017-09-05,15:36 (17:36),WCQ,Fifth round,Tue,Away,D,1,1,hn Honduras,,,,"30,000",Michael Bradley,4-2-3-1,Joel Aguilar
+2017-10-06,19:35,WCQ,Fifth round,Fri,Home,W,4,0,pa Panama,,,,"25,303",Michael Bradley,4-4-2,Roberto García
+2017-10-10,20:00,WCQ,Fifth round,Tue,Away,L,1,2,tt Trin & Tobago,,,,"1,500",Michael Bradley,4-4-2,Marlon Mejia
+2017-11-14,20:45 (15:45),Friendlies (M),Friendlies (M),Tue,Away,D,1,1,pt Portugal,,,,"19,017",Danny Williams,4-1-4-1,Sebastian Colțescu
+2016-01-31,13:08 (16:08),Friendlies (M),Friendlies (M),Sun,Home,W,3,2,is Iceland,,,,"8,803",Michael Bradley,,Jeffrey Solís
+2016-02-05,19:15 (22:15),Friendlies (M),Friendlies (M),Fri,Home,W,1,0,ca Canada,,,,"9,274",Michael Bradley,,Marlon Mejia
+2016-03-25,20:06 (22:06),WCQ,Fourth round,Fri,Away,L,0,2,gt Guatemala,,,,"18,313",,,Jafeth Perea
+2016-03-29,19:25,WCQ,Fourth round,Tue,Home,W,4,0,gt Guatemala,,,,"20,654",,,Valdin Legister
+2016-05-22,12:00,Friendlies (M),Friendlies (M),Sun,Away,W,3,1,pr Puerto Rico,,,,"14,000",Alejandro Bedoya,,Kimbell Ward
+2016-05-25,19:00 (20:00),Friendlies (M),Friendlies (M),Wed,Home,W,1,0,ec Ecuador,,,,"9,893",Michael Bradley,4-2-3-1,Alfredo Peñaloza
+2016-05-28,19:00 (20:00),Friendlies (M),Friendlies (M),Sat,Home,W,4,0,bo Bolivia,,,,"8,894",Michael Bradley,4-1-4-1,Elmer Bonilla
+2016-06-03,18:30 (21:30),Copa América Centenario,Group stage,Fri,Home,L,0,2,co Colombia,,,53,"67,439",Michael Bradley,4-3-3,Roberto García
+2016-06-07,19:00 (20:00),Copa América Centenario,Group stage,Tue,Home,W,4,0,cr Costa Rica,,,41,"39,642",Michael Bradley,4-3-3,Juan Bravo
+2016-06-11,19:00,Copa América Centenario,Group stage,Sat,Home,W,1,0,py Paraguay,,,35,"51,041",Michael Bradley,4-4-2,Julio Bascuñán
+2016-06-16,18:30 (21:30),Copa América Centenario,Quarter-finals,Thu,Home,W,2,1,ec Ecuador,,,42,"47,322",Michael Bradley,4-4-2,Wilmar Roldán
+2016-06-21,20:00 (21:00),Copa América Centenario,Semi-finals,Tue,Home,L,0,4,ar Argentina,,,32,"70,858",Michael Bradley,4-4-2,Enrique Cáceres
+2016-06-25,17:00 (20:00),Copa América Centenario,Third-place match,Sat,Home,L,0,1,co Colombia,,,49,"29,041",Michael Bradley,4-4-2,Daniel Fedorczuk
+2016-09-02,15:30,WCQ,Fourth round,Fri,Away,W,6,0,vc St. Vincent,,,,"6,200",,,Mathieu Bourdeau
+2016-09-06,20:15,WCQ,Fourth round,Tue,Home,W,4,0,tt Trin & Tobago,,,,"19,410",,,Ricardo Montero
+2016-10-07,16:00,Friendlies (M),Friendlies (M),Fri,Away,W,2,0,cu Cuba,,,,"7,000",Michael Bradley,4-4-2,Jafeth Perea
+2016-10-11,20:00,Friendlies (M),Friendlies (M),Tue,Home,D,1,1,nz New Zealand,,,,"9,012",Michael Bradley,4-4-2,Juan Guerra
+2016-11-11,20:01,WCQ,Fifth round,Fri,Home,L,1,2,mx Mexico,,,,"24,640",,,Walter López
+2016-11-15,20:05 (21:05),WCQ,Fifth round,Tue,Away,L,0,4,cr Costa Rica,,,,"35,422",,,César Ramos
+2015-01-28,20:00 (18:00),Friendlies (M),Friendlies (M),Wed,Away,L,2,3,cl Chile,,,,"12,420",Clint Dempsey,,Patricio Loustau
+2015-02-08,13:00 (16:00),Friendlies (M),Friendlies (M),Sun,Home,W,2,0,pa Panama,,,,"20,271",Clint Dempsey,,Henry Bejarano
+2015-03-25,20:15 (15:15),Friendlies (M),Friendlies (M),Wed,Away,L,2,3,dk Denmark,,,,"10,505",Michael Bradley,,Mattias Gestranius
+2015-03-31,18:05 (12:05),Friendlies (M),Friendlies (M),Tue,Away,D,1,1,ch Switzerland,,,,"16,100",Michael Bradley,,Luca Banti
+2015-04-15,20:00 (21:00),Friendlies (M),Friendlies (M),Wed,Home,W,2,0,mx Mexico,,,,"64,369",Michael Bradley,,Ricardo Montero
+2015-06-05,20:30 (14:30),Friendlies (M),Friendlies (M),Fri,Away,W,4,3,nl Netherlands,,,,"46,000",Michael Bradley,,Martin Strömbergsson
+2015-06-10,20:45 (14:45),Friendlies (M),Friendlies (M),Wed,Away,W,2,1,de Germany,,,,"40,348",Michael Bradley,4-4-2,Danny Makkelie
+2015-07-03,17:30 (18:30),Friendlies (M),Friendlies (M),Fri,Home,W,4,0,gt Guatemala,,,,"44,835",Michael Bradley,,Jorge Pérez
+2015-07-07,20:30 (21:30),Gold Cup,Group stage,Tue,Home,W,2,1,hn Honduras,,,,"22,357",Michael Bradley,4-2-2-2,César Arturo Ramos
+2015-07-10,20:30,Gold Cup,Group stage,Fri,Home,W,1,0,ht Haiti,,,,"46,720",Michael Bradley,4-1-4-1,Ricardo Montero
+2015-07-13,20:30 (21:30),Gold Cup,Group stage,Mon,Away,D,1,1,pa Panama,,,,"18,467",Michael Bradley,4-2-3-1,Roberto García
+2015-07-18,17:00,Gold Cup,Quarter-finals,Sat,Home,W,6,0,cu Cuba,,,,"37,994",Michael Bradley,4-4-2,Henry Bejarano
+2015-07-22,18:00,Gold Cup,Semi-finals,Wed,Home,L,1,2,jm Jamaica,,,,"70,511",Michael Bradley,4-2-3-1,Ricardo Montero
+2015-07-25,16:00,Gold Cup,Third-place match,Sat,Home,D,1 (2),1 (3),pa Panama,,,,"12,598",Michael Bradley,4-4-2,Oscar Moncada
+2015-09-04,19:30,Friendlies (M),Friendlies (M),Fri,Home,W,2,1,pe Peru,,,,"28,896",Jozy Altidore,,Francisco Chacón
+2015-09-08,20:40,Friendlies (M),Friendlies (M),Tue,Home,L,1,4,br Brazil,,,,"29,308",Michael Bradley,4-2-3-1,Joel Aguilar
+2015-10-13,19:00,Friendlies (M),Friendlies (M),Tue,Home,L,0,1,cr Costa Rica,,,,"9,214",Jozy Altidore,4-2-2-2,Walter López
+2015-11-13,18:10 (19:10),WCQ,Fourth round,Fri,Home,W,6,1,vc St. Vincent,,,,"43,433",,,Jeffrey Solís
+2015-11-17,19:30 (18:30),WCQ,Fourth round,Tue,Away,D,0,0,tt Trin & Tobago,,,,"18,500",,,César Arturo Ramos
+2012-06-08,19:00,WCQ,Third round,Fri,Home,W,3,1,ag Antigua,,,,"23,971",Carlos Bocanegra,,Hugo Cruz
+2012-06-12,20:00 (22:00),WCQ,Third round,Tue,Away,D,1,1,gt Guatemala,,,,"18,000",Carlos Bocanegra,,Joel Aguilar
+2012-09-07,19:00 (20:00),WCQ,Third round,Fri,Away,L,1,2,jm Jamaica,,,,"25,000",Tim Howard,,Marco Antonio Rodríguez
+2012-09-11,20:00,WCQ,Third round,Tue,Home,W,1,0,jm Jamaica,,,,"23,881",Carlos Bocanegra,,José Pineda
+2012-10-12,19:00,WCQ,Third round,Fri,Away,W,2,1,ag Antigua,,,,"7,000",Carlos Bocanegra,,Neal Brizan
+2012-10-16,18:15 (19:15),WCQ,Third round,Tue,Home,W,3,1,gt Guatemala,,,,"16,947",Carlos Bocanegra,,Roberto Moreno
+2013-02-06,15:00 (16:00),WCQ,Fourth round,Wed,Away,L,1,2,hn Honduras,,,,"32,000",Tim Howard,,Walter Quesada
+2013-03-22,20:11 (22:11),WCQ,Fourth round,Fri,Home,W,1,0,cr Costa Rica,,,,"19,374",Clint Dempsey,,Joel Aguilar
+2013-03-26,20:30 (22:30),WCQ,Fourth round,Tue,Away,D,0,0,mx Mexico,,,,"85,500",Clint Dempsey,,Walter López
+2013-06-07,20:30 (21:30),WCQ,Fourth round,Fri,Away,W,2,1,jm Jamaica,,,,"12,130",Clint Dempsey,,Roberto Moreno
+2013-06-11,19:08 (22:08),WCQ,Fourth round,Tue,Home,W,2,0,pa Panama,,,,"40,847",Clint Dempsey,,Roberto García
+2013-06-18,19:06 (21:06),WCQ,Fourth round,Tue,Home,W,1,0,hn Honduras,,,,"20,250",Clint Dempsey,,Enrico Wijngaarde
+2013-09-06,20:00 (22:00),WCQ,Fourth round,Fri,Away,L,1,3,cr Costa Rica,,,,"35,000",Clint Dempsey,,Marco Antonio Rodríguez
+2013-09-10,20:00,WCQ,Fourth round,Tue,Home,W,2,0,mx Mexico,,,,"23,881",Clint Dempsey,,Courtney Campbell
+2013-10-11,17:36 (18:36),WCQ,Fourth round,Fri,Home,W,2,0,jm Jamaica,,,,"18,467",Tim Howard,,Elmer Bonilla
+2013-10-15,20:30 (21:30),WCQ,Fourth round,Tue,Away,W,3,2,pa Panama,,,,"18,254",Jozy Altidore,,Courtney Campbell
+2014-02-01,14:00 (17:00),Friendlies (M),Friendlies (M),Sat,Home,W,2,0,kr Korea Republic,,,,"27,000",Landon Donovan,4-2-3-1,Hugo Cruz
+2014-03-05,21:00 (14:00),Friendlies (M),Friendlies (M),Wed,Neutral,L,0,2,ua Ukraine,,,,"1,573",Clint Dempsey,4-2-3-1,Leontios Trattou
+2014-04-02,20:00 (23:00),Friendlies (M),Friendlies (M),Wed,Home,D,2,2,mx Mexico,,,,"59,066",Clint Dempsey,4-2-2-2,Roberto Moreno
+2014-05-27,19:00 (22:00),Friendlies (M),Friendlies (M),Tue,Home,W,2,0,az Azerbaijan,,,,"24,688",Tim Howard,4-2-3-1,Henry Bejarano
+2014-06-01,14:00,Friendlies (M),Friendlies (M),Sun,Home,W,2,1,tr Türkiye,,,,"26,762",Clint Dempsey,4-2-2-2,Slim Jedidi
+2014-06-07,18:00,Friendlies (M),Friendlies (M),Sat,Home,W,2,1,ng Nigeria,,,,"52,033",Clint Dempsey,4-4-2,Mark Clattenburg
+2014-06-16,19:00 (18:00),FIFA World Cup,Group stage,Mon,Neutral,W,2,1,gh Ghana,,,41,"39,760",,4-4-2,Jonas Eriksson
+2014-06-22,18:00,FIFA World Cup,Group stage,Sun,Neutral,D,2,2,pt Portugal,,,48,"40,123",,4-2-3-1,Néstor Pitana
+2014-06-26,13:00 (12:00),FIFA World Cup,Group stage,Thu,Neutral,L,0,1,de Germany,,,37,"41,876",,4-1-4-1,Ravshan Irmatov
+2014-07-01,17:00 (16:00),FIFA World Cup,Round of 16,Tue,Neutral,L,1,2,be Belgium,,,53,"51,227",,4-2-3-1,Djamel Haïmoudi
+2014-09-03,20:15 (14:15),Friendlies (M),Friendlies (M),Wed,Away,W,1,0,cz Czech Republic,,,,"12,642",Jozy Altidore,4-1-4-1,István Vad II
+2014-10-10,19:00,Friendlies (M),Friendlies (M),Fri,Home,D,1,1,ec Ecuador,,,,"36,265",Landon Donovan,4-2-2-2,Roberto Moreno
+2014-10-14,20:00,Friendlies (M),Friendlies (M),Tue,Home,D,1,1,hn Honduras,,,,"14,805",Clint Dempsey,4-4-2,Yadel Martínez
+2014-11-14,19:45 (14:45),Friendlies (M),Friendlies (M),Fri,Home,L,1,2,co Colombia,,,,"24,235",Jozy Altidore,4-1-3-2,Szymon Marciniak
+2014-11-18,19:45 (14:45),Friendlies (M),Friendlies (M),Tue,Away,L,1,4,ie Rep. of Ireland,,,,"33,332",Jozy Altidore,4-1-3-2,Paweł Raczkowski
+2010-06-12,20:30 (14:30),FIFA World Cup,Group stage,Sat,Neutral,D,1,1,eng England,,,,"38,646",,4-4-2,
+2010-06-18,16:00 (10:00),FIFA World Cup,Group stage,Fri,Neutral,D,2,2,si Slovenia,,,,"45,573",,4-4-2,
+2010-06-23,16:00 (10:00),FIFA World Cup,Group stage,Wed,Neutral,W,1,0,dz Algeria,,,,"35,827",,4-4-2,
+2010-06-26,20:30 (14:30),FIFA World Cup,Round of 16,Sat,Neutral,L,1,2,gh Ghana,,,,"34,976",,4-4-2,

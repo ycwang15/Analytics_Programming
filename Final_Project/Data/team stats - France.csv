@@ -1,0 +1,230 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Referee
+2021-03-24,20:45 (15:45),WCQ,First round,Wed,Home,D,1,1,ua Ukraine,,,63,,Hugo Lloris,4-2-2-2,Tobias Stieler
+2021-03-28,19:00 (09:00),WCQ,First round,Sun,Away,W,2,0,kz Kazakhstan,,,63,,Hugo Lloris,4-2-3-1,Aliaksei Kulbakou
+2021-03-31,20:45 (14:45),WCQ,First round,Wed,Away,W,1,0,ba Bosnia & Herz'na,,,56,,Hugo Lloris,4-4-2,Daniele Orsato
+2021-09-01,20:45 (14:45),WCQ,First round,Wed,Home,D,1,1,ba Bosnia & Herz'na,,,54,"21,754",Hugo Lloris,4-3-3,Sandro Schärer
+2021-09-04,21:45 (14:45),WCQ,First round,Sat,Away,D,1,1,ua Ukraine,,,62,"48,000",Hugo Lloris,4-4-2,Slavko Vinčič
+2021-09-07,20:45 (14:45),WCQ,First round,Tue,Home,W,2,0,fi Finland,,,64,"57,057",Hugo Lloris,5-2-1-2,Deniz Aytekin
+2021-11-13,20:45 (14:45),WCQ,First round,Sat,Home,W,8,0,kz Kazakhstan,,,66,"45,551",Hugo Lloris,3-4-1-2,Glenn Nyberg
+2021-11-16,21:45 (14:45),WCQ,First round,Tue,Away,W,2,0,fi Finland,,,53,"31,890",Hugo Lloris,3-4-3,Marco Guida
+2022-03-25,21:15 (16:15),Friendlies (M),Friendlies (M),Fri,Neutral,W,2,1,ci Côte d'Ivoire,,,,"62,510",Hugo Lloris,3-4-1-2,Vitor Ferreira Fernandes
+2022-03-29,21:15 (15:15),Friendlies (M),Friendlies (M),Tue,Neutral,W,5,0,za South Africa,,,,"48,120",Raphaël Varane,3-4-1-2,Sandro Schärer
+2022-06-03,20:45 (14:45),UEFA Nations League,League A,Fri,Home,L,1,2,dk Denmark,,,60,"75,833",Hugo Lloris,3-5-2,Felix Zwayer
+2022-06-06,20:45 (14:45),UEFA Nations League,League A,Mon,Away,D,1,1,hr Croatia,,,51,"33,869",Presnel Kimpembe,4-2-3-1,Marco Guida
+2022-06-10,20:45 (14:45),UEFA Nations League,League A,Fri,Away,D,1,1,at Austria,,,67,"44,800",Hugo Lloris,4-4-2,Anastasios Sidiropoulos
+2022-06-13,20:45 (14:45),UEFA Nations League,League A,Mon,Home,L,0,1,hr Croatia,,,54,"774,100",Presnel Kimpembe,4-4-2,Orel Grinfeeld
+2022-09-22,20:45 (14:45),UEFA Nations League,League A,Thu,Home,W,2,0,at Austria,,,61,"70,188",Raphaël Varane,3-4-1-2,Andreas Ekberg
+2022-09-25,20:45 (14:45),UEFA Nations League,League A,Sun,Away,L,0,2,dk Denmark,,,53,"36,064",Antoine Griezmann,3-4-1-2,István Kovács
+2019-03-22,21:45 (15:45),UEFA Euro Qualifying,Group stage,Fri,Away,W,4,1,md Moldova,,,67,"10,042",Hugo Lloris,4-5-1,Aleksandar Stavrev
+2019-03-25,20:45 (15:45),UEFA Euro Qualifying,Group stage,Mon,Home,W,4,0,is Iceland,,,75,"64,538",Hugo Lloris,4-2-3-1,István Kovács
+2019-06-08,21:45 (14:45),UEFA Euro Qualifying,Group stage,Sat,Away,L,0,2,tr Türkiye,,,63,"36,783",Hugo Lloris,4-3-3,Damir Skomina
+2019-06-11,20:45 (14:45),UEFA Euro Qualifying,Group stage,Tue,Away,W,4,0,ad Andorra,,,86,"3,187",Hugo Lloris,4-2-3-1,Fran Jović
+2019-09-07,20:45 (14:45),UEFA Euro Qualifying,Group stage,Sat,Home,W,4,1,al Albania,,,72,"77,655",Hugo Lloris,4-2-3-1,Jesús Gil
+2019-09-10,20:45 (14:45),UEFA Euro Qualifying,Group stage,Tue,Home,W,3,0,ad Andorra,,,84,"55,383",Hugo Lloris,4-2-3-1,Mykola Balakin
+2019-10-11,18:45 (14:45),UEFA Euro Qualifying,Group stage,Fri,Away,W,1,0,is Iceland,,,71,"9,719",Raphaël Varane,4-3-3,Gianluca Rocchi
+2019-10-14,20:45 (14:45),UEFA Euro Qualifying,Group stage,Mon,Home,D,1,1,tr Türkiye,,,64,"72,154",Raphaël Varane,4-2-3-1,Felix Brych
+2019-11-14,20:45 (14:45),UEFA Euro Qualifying,Group stage,Thu,Home,W,2,1,md Moldova,,,77,"64,367",Raphaël Varane,4-2-3-1,Gediminas Mažeika
+2019-11-17,20:45 (14:45),UEFA Euro Qualifying,Group stage,Sun,Away,W,2,0,al Albania,,,57,"19,228",Raphaël Varane,3-4-1-2,Slavko Vinčič
+2021-03-24,20:45 (15:45),WCQ,First round,Wed,Home,D,1,1,ua Ukraine,,,63,,Hugo Lloris,4-2-2-2,Tobias Stieler
+2021-03-28,19:00 (09:00),WCQ,First round,Sun,Away,W,2,0,kz Kazakhstan,,,63,,Hugo Lloris,4-2-3-1,Aliaksei Kulbakou
+2021-03-31,20:45 (14:45),WCQ,First round,Wed,Away,W,1,0,ba Bosnia & Herz'na,,,56,,Hugo Lloris,4-4-2,Daniele Orsato
+2021-06-02,21:05 (15:05),Friendlies (M),Friendlies (M),Wed,Home,W,3,0,wls Wales,,,,,Hugo Lloris,4-1-4-1,Luís Godinho
+2021-06-08,21:10 (15:10),Friendlies (M),Friendlies (M),Tue,Home,W,3,0,bg Bulgaria,,,,,Hugo Lloris,4-3-1-2,Anastasios Sidiropoulos
+2021-06-15,21:00 (15:00),UEFA Euro,Group stage,Tue,Neutral,W,1,0,de Germany,0.3,0.9,39,"13,000",Hugo Lloris,4-3-3,Carlos del Cerro
+2021-06-19,15:00 (09:00),UEFA Euro,Group stage,Sat,Neutral,D,1,1,hu Hungary,2.0,0.4,66,"55,998",Hugo Lloris,4-3-3,Michael Oliver
+2021-06-23,21:00 (15:00),UEFA Euro,Group stage,Wed,Neutral,D,2,2,pt Portugal,1.9,1.9,52,"54,886",Hugo Lloris,4-2-3-1,Antonio Matéu Lahoz
+2021-06-28,22:00 (15:00),UEFA Euro,Round of 16,Mon,Neutral,D,3 (4),3 (5),ch Switzerland,3.4,1.9,54,"22,642",Hugo Lloris,3-5-2,Fernando Rapallini
+2021-09-01,20:45 (14:45),WCQ,First round,Wed,Home,D,1,1,ba Bosnia & Herz'na,,,54,"21,754",Hugo Lloris,4-3-3,Sandro Schärer
+2021-09-04,21:45 (14:45),WCQ,First round,Sat,Away,D,1,1,ua Ukraine,,,62,"48,000",Hugo Lloris,4-4-2,Slavko Vinčič
+2021-09-07,20:45 (14:45),WCQ,First round,Tue,Home,W,2,0,fi Finland,,,64,"57,057",Hugo Lloris,5-2-1-2,Deniz Aytekin
+2021-10-07,20:45 (14:45),UEFA Nations League,Semi-finals,Thu,Neutral,W,3,2,be Belgium,,,49,"12,409",Hugo Lloris,3-4-3,Daniel Siebert
+2021-10-10,20:45 (14:45),UEFA Nations League,Final,Sun,Neutral,W,2,1,es Spain,,,36,"31,511",Hugo Lloris,3-4-1-2,Anthony Taylor
+2021-11-13,20:45 (14:45),WCQ,First round,Sat,Home,W,8,0,kz Kazakhstan,,,66,"45,551",Hugo Lloris,3-4-1-2,Glenn Nyberg
+2021-11-16,21:45 (14:45),WCQ,First round,Tue,Away,W,2,0,fi Finland,,,53,"31,890",Hugo Lloris,3-4-3,Marco Guida
+2020-09-05,20:45 (14:45),UEFA Nations League,League A,Sat,Away,W,1,0,se Sweden,,,49,,Hugo Lloris,3-4-1-2,Szymon Marciniak
+2020-09-08,20:45 (14:45),UEFA Nations League,League A,Tue,Home,W,4,2,hr Croatia,,,43,,Hugo Lloris,3-4-1-2,Ovidiu Hațegan
+2020-10-07,21:10 (15:10),Friendlies (M),Friendlies (M),Wed,Home,W,7,1,ua Ukraine,,,,,Olivier Giroud,4-4-2,Andris Treimanis
+2020-10-11,20:45 (14:45),UEFA Nations League,League A,Sun,Home,D,0,0,pt Portugal,,,50,"1,000",Hugo Lloris,4-2-1-1-2,Carlos del Cerro
+2020-10-14,20:45 (14:45),UEFA Nations League,League A,Wed,Away,W,2,1,hr Croatia,,,48,"6,266",Hugo Lloris,4-3-1-2,Björn Kuipers
+2020-11-11,21:10 (15:10),Friendlies (M),Friendlies (M),Wed,Home,L,0,2,fi Finland,,,,,Steve Mandanda,4-2-2-2,Nikola Popov
+2020-11-14,19:45 (14:45),UEFA Nations League,League A,Sat,Away,W,1,0,pt Portugal,,,50,,Hugo Lloris,4-3-3,Tobias Stieler
+2020-11-17,20:45 (14:45),UEFA Nations League,League A,Tue,Home,W,4,2,se Sweden,,,52,,Hugo Lloris,4-4-2,Aliaksei Kulbakou
+2021-03-24,20:45 (15:45),WCQ,First round,Wed,Home,D,1,1,ua Ukraine,,,63,,Hugo Lloris,4-2-2-2,Tobias Stieler
+2021-03-28,19:00 (09:00),WCQ,First round,Sun,Away,W,2,0,kz Kazakhstan,,,63,,Hugo Lloris,4-2-3-1,Aliaksei Kulbakou
+2021-03-31,20:45 (14:45),WCQ,First round,Wed,Away,W,1,0,ba Bosnia & Herz'na,,,56,,Hugo Lloris,4-4-2,Daniele Orsato
+2021-06-02,21:05 (15:05),Friendlies (M),Friendlies (M),Wed,Home,W,3,0,wls Wales,,,,,Hugo Lloris,4-1-4-1,Luís Godinho
+2021-06-08,21:10 (15:10),Friendlies (M),Friendlies (M),Tue,Home,W,3,0,bg Bulgaria,,,,,Hugo Lloris,4-3-1-2,Anastasios Sidiropoulos
+2021-06-15,21:00 (15:00),UEFA Euro,Group stage,Tue,Neutral,W,1,0,de Germany,,,39,"13,000",Hugo Lloris,4-3-3,Carlos del Cerro
+2021-06-19,15:00 (09:00),UEFA Euro,Group stage,Sat,Neutral,D,1,1,hu Hungary,,,66,"55,998",Hugo Lloris,4-3-3,Michael Oliver
+2021-06-23,21:00 (15:00),UEFA Euro,Group stage,Wed,Neutral,D,2,2,pt Portugal,,,52,"54,886",Hugo Lloris,4-2-3-1,Antonio Matéu Lahoz
+2021-06-28,22:00 (15:00),UEFA Euro,Round of 16,Mon,Neutral,D,3 (4),3 (5),ch Switzerland,,,54,"22,642",Hugo Lloris,3-5-2,Fernando Rapallini
+2021-10-07,20:45 (14:45),UEFA Nations League,Semi-finals,Thu,Neutral,W,3,2,be Belgium,,,49,"12,409",Hugo Lloris,3-4-3,Daniel Siebert
+2021-10-10,20:45 (14:45),UEFA Nations League,Final,Sun,Neutral,W,2,1,es Spain,,,36,"31,511",Hugo Lloris,3-4-1-2,Anthony Taylor
+2020-09-05,20:45 (14:45),UEFA Nations League,League A,Sat,Away,W,1,0,se Sweden,,,49,,Hugo Lloris,3-4-1-2,Szymon Marciniak
+2020-09-08,20:45 (14:45),UEFA Nations League,League A,Tue,Home,W,4,2,hr Croatia,,,43,,Hugo Lloris,3-4-1-2,Ovidiu Hațegan
+2020-10-07,21:10 (15:10),Friendlies (M),Friendlies (M),Wed,Home,W,7,1,ua Ukraine,,,,,Olivier Giroud,4-4-2,Andris Treimanis
+2020-10-11,20:45 (14:45),UEFA Nations League,League A,Sun,Home,D,0,0,pt Portugal,,,50,"1,000",Hugo Lloris,4-2-1-1-2,Carlos del Cerro
+2020-10-14,20:45 (14:45),UEFA Nations League,League A,Wed,Away,W,2,1,hr Croatia,,,48,"6,266",Hugo Lloris,4-3-1-2,Björn Kuipers
+2020-11-11,21:10 (15:10),Friendlies (M),Friendlies (M),Wed,Home,L,0,2,fi Finland,,,,,Steve Mandanda,4-2-2-2,Nikola Popov
+2020-11-14,19:45 (14:45),UEFA Nations League,League A,Sat,Away,W,1,0,pt Portugal,,,50,,Hugo Lloris,4-3-3,Tobias Stieler
+2020-11-17,20:45 (14:45),UEFA Nations League,League A,Tue,Home,W,4,2,se Sweden,,,52,,Hugo Lloris,4-4-2,Aliaksei Kulbakou
+2019-03-22,21:45 (15:45),UEFA Euro Qualifying,Group stage,Fri,Away,W,4,1,md Moldova,,,67,"10,042",Hugo Lloris,4-5-1,Aleksandar Stavrev
+2019-03-25,20:45 (15:45),UEFA Euro Qualifying,Group stage,Mon,Home,W,4,0,is Iceland,,,75,"64,538",Hugo Lloris,4-2-3-1,István Kovács
+2019-06-02,21:00 (15:00),Friendlies (M),Friendlies (M),Sun,Home,W,2,0,bo Bolivia,,,,"35,228",Raphaël Varane,4-2-3-1,Alberto Undiano
+2019-06-08,21:45 (14:45),UEFA Euro Qualifying,Group stage,Sat,Away,L,0,2,tr Türkiye,,,63,"36,783",Hugo Lloris,4-3-3,Damir Skomina
+2019-06-11,20:45 (14:45),UEFA Euro Qualifying,Group stage,Tue,Away,W,4,0,ad Andorra,,,86,"3,187",Hugo Lloris,4-2-3-1,Fran Jović
+2019-09-07,20:45 (14:45),UEFA Euro Qualifying,Group stage,Sat,Home,W,4,1,al Albania,,,72,"77,655",Hugo Lloris,4-2-3-1,Jesús Gil
+2019-09-10,20:45 (14:45),UEFA Euro Qualifying,Group stage,Tue,Home,W,3,0,ad Andorra,,,84,"55,383",Hugo Lloris,4-2-3-1,Mykola Balakin
+2019-10-11,18:45 (14:45),UEFA Euro Qualifying,Group stage,Fri,Away,W,1,0,is Iceland,,,71,"9,719",Raphaël Varane,4-3-3,Gianluca Rocchi
+2019-10-14,20:45 (14:45),UEFA Euro Qualifying,Group stage,Mon,Home,D,1,1,tr Türkiye,,,64,"72,154",Raphaël Varane,4-2-3-1,Felix Brych
+2019-11-14,20:45 (14:45),UEFA Euro Qualifying,Group stage,Thu,Home,W,2,1,md Moldova,,,77,"64,367",Raphaël Varane,4-2-3-1,Gediminas Mažeika
+2019-11-17,20:45 (14:45),UEFA Euro Qualifying,Group stage,Sun,Away,W,2,0,al Albania,,,57,"19,228",Raphaël Varane,3-4-1-2,Slavko Vinčič
+2018-07-06,17:00 (10:00),FIFA World Cup,Quarter-finals,Fri,Neutral,W,2,0,uy Uruguay,,,61,"43,319",Hugo Lloris,4-2-3-1,Néstor Pitana
+2018-07-10,21:00 (14:00),FIFA World Cup,Semi-finals,Tue,Neutral,W,1,0,be Belgium,,,36,"64,286",Hugo Lloris,4-2-3-1,Andrés Cunha
+2018-07-15,18:00 (11:00),FIFA World Cup,Final,Sun,Neutral,W,4,2,hr Croatia,,,35,"78,011",Hugo Lloris,4-4-2,Néstor Pitana
+2018-09-06,20:45 (14:45),UEFA Nations League,League A,Thu,Away,D,0,0,de Germany,,,,"67,485",Raphaël Varane,4-4-1-1,Daniele Orsato
+2018-09-09,20:45 (14:45),UEFA Nations League,League A,Sun,Home,W,2,1,nl Netherlands,,,,"76,452",Raphaël Varane,4-2-3-1,Alberto Undiano
+2018-10-11,21:00 (15:00),Friendlies (M),Friendlies (M),Thu,Home,D,2,2,is Iceland,,,,"18,000",Hugo Lloris,4-2-3-1,Tiago Martins
+2018-10-16,20:45 (14:45),UEFA Nations League,League A,Tue,Home,W,2,1,de Germany,,,,"75,000",Hugo Lloris,4-2-3-1,Danilo Grujić
+2018-11-16,20:45 (14:45),UEFA Nations League,League A,Fri,Away,L,0,2,nl Netherlands,,,,"44,366",Hugo Lloris,4-4-1-1,Anthony Taylor
+2018-11-20,21:00 (15:00),Friendlies (M),Friendlies (M),Tue,Home,W,1,0,uy Uruguay,,,,,Hugo Lloris,4-2-3-1,Damir Skomina
+2019-03-22,21:45 (15:45),UEFA Euro Qualifying,Group stage,Fri,Away,W,4,1,md Moldova,,,67,"10,042",Hugo Lloris,4-5-1,Aleksandar Stavrev
+2019-03-25,20:45 (15:45),UEFA Euro Qualifying,Group stage,Mon,Home,W,4,0,is Iceland,,,75,"64,538",Hugo Lloris,4-2-3-1,István Kovács
+2019-06-02,21:00 (15:00),Friendlies (M),Friendlies (M),Sun,Home,W,2,0,bo Bolivia,,,,"35,228",Raphaël Varane,4-2-3-1,Alberto Undiano
+2019-06-08,21:45 (14:45),UEFA Euro Qualifying,Group stage,Sat,Away,L,0,2,tr Türkiye,,,63,"36,783",Hugo Lloris,4-3-3,Damir Skomina
+2019-06-11,20:45 (14:45),UEFA Euro Qualifying,Group stage,Tue,Away,W,4,0,ad Andorra,,,86,"3,187",Hugo Lloris,4-2-3-1,Fran Jović
+2016-09-06,21:45 (14:45),WCQ,First round,Tue,Away,D,0,0,by Belarus,,,,"12,920",Raphaël Varane,4-2-3-1,Ovidiu Hațegan
+2016-10-07,20:45 (14:45),WCQ,First round,Fri,Home,W,4,1,bg Bulgaria,,,,"65,475",Hugo Lloris,4-4-1-1,Luca Banti
+2016-10-10,20:45 (14:45),WCQ,First round,Mon,Away,W,1,0,nl Netherlands,,,,"50,220",Hugo Lloris,4-4-1-1,Damir Skomina
+2016-11-11,20:45 (14:45),WCQ,First round,Fri,Home,W,2,1,se Sweden,,,,"80,000",Hugo Lloris,4-4-1-1,Milorad Mažić
+2017-03-25,20:45 (15:45),WCQ,First round,Sat,Away,W,3,1,lu Luxembourg,,,,"8,000",Hugo Lloris,4-2-3-1,Andris Treimanis
+2017-06-09,20:45 (14:45),WCQ,First round,Fri,Away,L,1,2,se Sweden,,,,"48,783",Hugo Lloris,4-2-3-1,Martin Atkinson
+2017-08-31,20:45 (14:45),WCQ,First round,Thu,Home,W,4,0,nl Netherlands,,,,"79,551",Hugo Lloris,4-2-3-1,Gianluca Rocchi
+2017-09-03,20:45 (14:45),WCQ,First round,Sun,Home,D,0,0,lu Luxembourg,,,,"31,177",Hugo Lloris,4-4-2,Aleksandar Stavrev
+2017-10-07,21:45 (14:45),WCQ,First round,Sat,Away,W,1,0,bg Bulgaria,,,,"12,921",Hugo Lloris,4-3-3,Antonio Matéu Lahoz
+2017-10-10,20:45 (14:45),WCQ,First round,Tue,Home,W,2,1,by Belarus,,,,"74,037",Hugo Lloris,4-2-2-2,Halis Özkahya
+2018-03-23,21:00 (16:00),Friendlies (M),Friendlies (M),Fri,Home,L,2,3,co Colombia,,,,"80,000",Hugo Lloris,4-2-3-1,Adrien Jaccottet
+2018-03-27,18:50 (11:50),Friendlies (M),Friendlies (M),Tue,Away,W,3,1,ru Russia,,,,"51,165",Hugo Lloris,4-3-3,Gediminas Mažeika
+2018-05-28,21:00 (15:00),Friendlies (M),Friendlies (M),Mon,Home,W,2,0,ie Rep. of Ireland,,,,"70,000",Blaise Matuidi,4-1-4-1,Georgi Kabakov
+2018-06-01,21:05 (15:05),Friendlies (M),Friendlies (M),Fri,Home,W,3,1,it Italy,,,,"34,500",Hugo Lloris,4-1-4-1,Anthony Taylor
+2018-06-09,21:00 (15:00),Friendlies (M),Friendlies (M),Sat,Home,D,1,1,us United States,,,,"58,241",Hugo Lloris,4-4-2,William Collum
+2018-06-16,13:00 (06:00),FIFA World Cup,Group stage,Sat,Neutral,W,2,1,au Australia,1.3,1.0,56,"41,279",Hugo Lloris,4-3-3,Andrés Cunha
+2018-06-21,20:00 (11:00),FIFA World Cup,Group stage,Thu,Neutral,W,1,0,pe Peru,2.0,0.4,44,"32,789",Hugo Lloris,4-2-3-1,Mohammed Abdulla Hassan
+2018-06-26,17:00 (10:00),FIFA World Cup,Group stage,Tue,Neutral,D,0,0,dk Denmark,0.4,0.2,67,"78,011",Raphaël Varane,4-2-3-1,Sandro Ricci
+2018-06-30,17:00 (10:00),FIFA World Cup,Round of 16,Sat,Neutral,W,4,3,ar Argentina,2.2,0.8,39,"42,873",Hugo Lloris,4-2-3-1,Alireza Faghani
+2018-07-06,17:00 (10:00),FIFA World Cup,Quarter-finals,Fri,Neutral,W,2,0,uy Uruguay,0.5,0.9,61,"43,319",Hugo Lloris,4-2-3-1,Néstor Pitana
+2018-07-10,21:00 (14:00),FIFA World Cup,Semi-finals,Tue,Neutral,W,1,0,be Belgium,1.7,0.4,36,"64,286",Hugo Lloris,4-2-3-1,Andrés Cunha
+2018-07-15,18:00 (11:00),FIFA World Cup,Final,Sun,Neutral,W,4,2,hr Croatia,1.1,1.1,35,"78,011",Hugo Lloris,4-4-2,Néstor Pitana
+2018-09-06,20:45 (14:45),UEFA Nations League,League A,Thu,Away,D,0,0,de Germany,,,,"67,485",Raphaël Varane,4-4-1-1,Daniele Orsato
+2018-09-09,20:45 (14:45),UEFA Nations League,League A,Sun,Home,W,2,1,nl Netherlands,,,,"76,452",Raphaël Varane,4-2-3-1,Alberto Undiano
+2018-10-11,21:00 (15:00),Friendlies (M),Friendlies (M),Thu,Home,D,2,2,is Iceland,,,,"18,000",Hugo Lloris,4-2-3-1,Tiago Martins
+2018-10-16,20:45 (14:45),UEFA Nations League,League A,Tue,Home,W,2,1,de Germany,,,,"75,000",Hugo Lloris,4-2-3-1,Danilo Grujić
+2018-11-16,20:45 (14:45),UEFA Nations League,League A,Fri,Away,L,0,2,nl Netherlands,,,,"44,366",Hugo Lloris,4-4-1-1,Anthony Taylor
+2018-11-20,21:00 (15:00),Friendlies (M),Friendlies (M),Tue,Home,W,1,0,uy Uruguay,,,,,Hugo Lloris,4-2-3-1,Damir Skomina
+2017-03-25,20:45 (15:45),WCQ,First round,Sat,Away,W,3,1,lu Luxembourg,,,,"8,000",Hugo Lloris,4-2-3-1,Andris Treimanis
+2017-03-28,21:00 (15:00),Friendlies (M),Friendlies (M),Tue,Home,L,0,2,es Spain,,,,"79,021",Hugo Lloris,4-3-3,Felix Zwayer
+2017-06-02,21:00 (15:00),Friendlies (M),Friendlies (M),Fri,Home,W,5,0,py Paraguay,,,,"28,256",Hugo Lloris,4-2-3-1,Artur Soares Dias
+2017-06-09,20:45 (14:45),WCQ,First round,Fri,Away,L,1,2,se Sweden,,,,"48,783",Hugo Lloris,4-2-3-1,Martin Atkinson
+2017-06-13,21:00 (15:00),Friendlies (M),Friendlies (M),Tue,Home,W,3,2,eng England,,,,"80,000",Hugo Lloris,4-4-2,Davide Massa
+2017-08-31,20:45 (14:45),WCQ,First round,Thu,Home,W,4,0,nl Netherlands,,,,"79,551",Hugo Lloris,4-2-3-1,Gianluca Rocchi
+2017-09-03,20:45 (14:45),WCQ,First round,Sun,Home,D,0,0,lu Luxembourg,,,,"31,177",Hugo Lloris,4-4-2,Aleksandar Stavrev
+2017-10-07,21:45 (14:45),WCQ,First round,Sat,Away,W,1,0,bg Bulgaria,,,,"12,921",Hugo Lloris,4-3-3,Antonio Matéu Lahoz
+2017-10-10,20:45 (14:45),WCQ,First round,Tue,Home,W,2,1,by Belarus,,,,"74,037",Hugo Lloris,4-2-2-2,Halis Özkahya
+2017-11-10,21:00 (15:00),Friendlies (M),Friendlies (M),Fri,Home,W,2,0,wls Wales,,,,"50,000",Blaise Matuidi,4-4-2,Manuel De Sousa
+2017-11-14,20:45 (14:45),Friendlies (M),Friendlies (M),Tue,Away,D,2,2,de Germany,,,,,Raphaël Varane,4-3-3,Cüneyt Çakιr
+2016-03-25,20:45 (15:45),Friendlies (M),Friendlies (M),Fri,Away,W,3,2,nl Netherlands,,,,"48,000",Blaise Matuidi,4-1-4-1,Felix Zwayer
+2016-03-29,21:00 (15:00),Friendlies (M),Friendlies (M),Tue,Home,W,4,2,ru Russia,,,,"65,000",Hugo Lloris,4-1-4-1,Craig Thomson
+2016-05-30,21:00 (15:00),Friendlies (M),Friendlies (M),Mon,Home,W,3,2,cm Cameroon,,,,"37,000",Hugo Lloris,4-1-4-1,Simon Evans
+2016-06-04,21:00 (15:00),Friendlies (M),Friendlies (M),Sat,Home,W,3,0,sct Scotland,,,,"25,000",Hugo Lloris,4-1-4-1,Sébastien Delferière
+2016-06-10,21:00 (15:00),UEFA Euro,Group stage,Fri,Home,W,2,1,ro Romania,,,64,"75,113",Hugo Lloris,4-3-3,Viktor Kassai
+2016-06-15,21:00 (15:00),UEFA Euro,Group stage,Wed,Home,W,2,0,al Albania,,,60,"63,670",Hugo Lloris,4-2-3-1,William Collum
+2016-06-19,21:00 (15:00),UEFA Euro,Group stage,Sun,Away,D,0,0,ch Switzerland,,,41,"45,616",Hugo Lloris,4-3-3,Damir Skomina
+2016-06-26,15:00 (09:00),UEFA Euro,Round of 16,Sun,Home,W,2,1,ie Rep. of Ireland,,,67,"56,279",Hugo Lloris,4-3-3,Nicola Rizzoli
+2016-07-03,21:00 (15:00),UEFA Euro,Quarter-finals,Sun,Home,W,5,2,is Iceland,,,61,"76,833",Hugo Lloris,4-2-3-1,Björn Kuipers
+2016-07-07,21:00 (15:00),UEFA Euro,Semi-finals,Thu,Away,W,2,0,de Germany,,,32,"64,078",Hugo Lloris,4-2-3-1,Nicola Rizzoli
+2016-07-10,21:00 (15:00),UEFA Euro,Final,Sun,Away,L,0,1,pt Portugal,,,56,"75,868",Hugo Lloris,4-2-3-1,Mark Clattenburg
+2016-09-01,21:00 (15:00),Friendlies (M),Friendlies (M),Thu,Away,W,3,1,it Italy,,,,"39,000",Raphaël Varane,4-3-3,Björn Kuipers
+2016-09-06,21:45 (14:45),WCQ,First round,Tue,Away,D,0,0,by Belarus,,,,"12,920",Raphaël Varane,4-2-3-1,Ovidiu Hațegan
+2016-10-07,20:45 (14:45),WCQ,First round,Fri,Home,W,4,1,bg Bulgaria,,,,"65,475",Hugo Lloris,4-4-1-1,Luca Banti
+2016-10-10,20:45 (14:45),WCQ,First round,Mon,Away,W,1,0,nl Netherlands,,,,"50,220",Hugo Lloris,4-4-1-1,Damir Skomina
+2016-11-11,20:45 (14:45),WCQ,First round,Fri,Home,W,2,1,se Sweden,,,,"80,000",Hugo Lloris,4-4-1-1,Milorad Mažić
+2016-11-15,21:00 (15:00),Friendlies (M),Friendlies (M),Tue,Home,D,0,0,ci Côte d'Ivoire,,,,"35,000",Raphaël Varane,4-1-4-1,Radu Petrescu
+2015-03-26,21:00 (16:00),Friendlies (M),Friendlies (M),Thu,Home,L,1,3,br Brazil,,,,"81,338",Karim Benzema,4-1-4-1,Nicola Rizzoli
+2015-03-29,21:00 (15:00),Friendlies (M),Friendlies (M),Sun,Home,W,2,0,dk Denmark,,,,"38,458",Raphaël Varane,4-2-3-1,Ivan Kružliak
+2015-06-07,21:00 (15:00),Friendlies (M),Friendlies (M),Sun,Home,L,3,4,be Belgium,,,,"70,000",Hugo Lloris,4-2-3-1,Mario Strahonja
+2015-06-13,18:00 (12:00),Friendlies (M),Friendlies (M),Sat,Away,L,0,1,al Albania,,,,"13,000",Hugo Lloris,4-2-3-1,Halis Özkahya
+2015-09-04,19:45 (14:45),Friendlies (M),Friendlies (M),Fri,Away,W,1,0,pt Portugal,,,,"39,853",Hugo Lloris,4-3-1-2,Danny Makkelie
+2015-09-07,20:45 (14:45),Friendlies (M),Friendlies (M),Mon,Home,W,2,1,rs Serbia,,,,"42,000",Hugo Lloris,4-1-4-1,Artur Soares Dias
+2015-10-08,20:45 (14:45),Friendlies (M),Friendlies (M),Thu,Home,W,4,0,am Armenia,,,,"32,136",Hugo Lloris,4-1-4-1,Slavko Vinčič
+2015-10-11,20:45 (14:45),Friendlies (M),Friendlies (M),Sun,Away,W,2,1,dk Denmark,,,,"18,145",Raphaël Varane,4-1-4-1,Jonas Eriksson
+2015-11-13,21:00 (15:00),Friendlies (M),Friendlies (M),Fri,Home,W,2,0,de Germany,,,,"60,000",Hugo Lloris,4-1-4-1,Antonio Matéu Lahoz
+2015-11-17,20:00 (15:00),Friendlies (M),Friendlies (M),Tue,Away,L,0,2,eng England,,,,"71,223",Hugo Lloris,4-1-4-1,Jonas Eriksson
+2012-09-07,21:30 (14:30),WCQ,First round,Fri,Away,W,1,0,fi Finland,,,,"35,111",Hugo Lloris,,Craig Thomson
+2012-09-11,21:00 (15:00),WCQ,First round,Tue,Home,W,3,1,by Belarus,,,,"52,552",Hugo Lloris,,Hüseyin Göçek
+2012-10-16,21:00 (15:00),WCQ,First round,Tue,Away,D,1,1,es Spain,,,,"46,825",Hugo Lloris,,Felix Brych
+2013-03-22,21:00 (16:00),WCQ,First round,Fri,Home,W,3,1,ge Georgia,,,,"71,147",Hugo Lloris,,Ivan Bebek
+2013-03-26,21:00 (16:00),WCQ,First round,Tue,Home,L,0,1,es Spain,,,,"78,329",Hugo Lloris,,Viktor Kassai
+2013-09-06,22:15 (14:15),WCQ,First round,Fri,Away,D,0,0,ge Georgia,,,,"26,360",Hugo Lloris,,Fırat Aydınus
+2013-09-10,22:00 (15:00),WCQ,First round,Tue,Away,W,4,2,by Belarus,,,,"12,203",Hugo Lloris,,Daniele Orsato
+2013-10-15,21:00 (15:00),WCQ,First round,Tue,Home,W,3,0,fi Finland,,,,"70,156",Hugo Lloris,,Michael Koukoulakis
+2013-11-15,21:45 (14:45),WCQ,Second round,Fri,Away,L,0,2,ua Ukraine,,,,"67,732",Hugo Lloris,,Cüneyt Çakιr
+2013-11-19,21:00 (15:00),WCQ,Second round,Tue,Home,W,3,0,ua Ukraine,,,,"77,098",Hugo Lloris,,Damir Skomina
+2014-03-05,21:00 (15:00),Friendlies (M),Friendlies (M),Wed,Home,W,2,0,nl Netherlands,,,,"78,292",Hugo Lloris,4-1-4-1,Martin Atkinson
+2014-05-27,21:00 (15:00),Friendlies (M),Friendlies (M),Tue,Home,W,4,0,no Norway,,,,"70,000",Mamadou Sakho,4-1-4-1,Padraigh Sutton
+2014-06-01,21:00 (15:00),Friendlies (M),Friendlies (M),Sun,Home,D,1,1,py Paraguay,,,,"35,200",Hugo Lloris,4-1-4-1,Carlos Clos Gómez
+2014-06-08,21:00 (15:00),Friendlies (M),Friendlies (M),Sun,Neutral,W,8,0,jm Jamaica,,,,"49,600",Hugo Lloris,4-1-4-1,Felix Zwayer
+2014-06-15,16:00 (15:00),FIFA World Cup,Group stage,Sun,Neutral,W,3,0,hn Honduras,,,63,"43,012",,4-3-3,Sandro Ricci
+2014-06-20,16:00 (15:00),FIFA World Cup,Group stage,Fri,Neutral,W,5,2,ch Switzerland,,,43,"51,003",,4-3-3,Björn Kuipers
+2014-06-25,17:00 (16:00),FIFA World Cup,Group stage,Wed,Neutral,D,0,0,ec Ecuador,,,60,"73,749",,4-3-3,Noumandiez Doué
+2014-06-30,13:00 (12:00),FIFA World Cup,Round of 16,Mon,Neutral,W,2,0,ng Nigeria,,,49,"67,882",,4-3-3,Mark Geiger
+2014-07-04,13:00 (12:00),FIFA World Cup,Quarter-finals,Fri,Neutral,L,0,1,de Germany,,,50,"74,240",,4-3-3,Néstor Pitana
+2014-09-04,21:00 (15:00),Friendlies (M),Friendlies (M),Thu,Home,W,1,0,es Spain,,,,"80,000",Hugo Lloris,4-2-3-1,Alain Bieri
+2014-09-07,20:45 (14:45),Friendlies (M),Friendlies (M),Sun,Away,D,1,1,rs Serbia,,,,"12,500",Hugo Lloris,4-1-4-1,Wolfgang Stark
+2014-10-11,20:45 (14:45),Friendlies (M),Friendlies (M),Sat,Home,W,2,1,pt Portugal,,,,"79,000",Blaise Matuidi,4-1-4-1,Szymon Marciniak
+2014-10-14,20:00 (12:00),Friendlies (M),Friendlies (M),Tue,Away,W,3,0,am Armenia,,,,"6,000",Blaise Matuidi,4-2-3-1,István Kovács
+2014-11-14,20:45 (14:45),Friendlies (M),Friendlies (M),Fri,Home,D,1,1,al Albania,,,,"26,527",Hugo Lloris,4-3-1-2,Miroslav Zelinka
+2014-11-18,21:00 (15:00),Friendlies (M),Friendlies (M),Tue,Home,W,1,0,se Sweden,,,,"55,000",Raphaël Varane,4-2-3-1,Jesús Gil
+2012-09-07,21:30 (14:30),WCQ,First round,Fri,Away,W,1,0,fi Finland,,,,"35,111",Hugo Lloris,,Craig Thomson
+2012-09-11,21:00 (15:00),WCQ,First round,Tue,Home,W,3,1,by Belarus,,,,"52,552",Hugo Lloris,,Hüseyin Göçek
+2012-10-16,21:00 (15:00),WCQ,First round,Tue,Away,D,1,1,es Spain,,,,"46,825",Hugo Lloris,,Felix Brych
+2013-03-22,21:00 (16:00),WCQ,First round,Fri,Home,W,3,1,ge Georgia,,,,"71,147",Hugo Lloris,,Ivan Bebek
+2013-03-26,21:00 (16:00),WCQ,First round,Tue,Home,L,0,1,es Spain,,,,"78,329",Hugo Lloris,,Viktor Kassai
+2013-09-06,22:15 (14:15),WCQ,First round,Fri,Away,D,0,0,ge Georgia,,,,"26,360",Hugo Lloris,,Fırat Aydınus
+2013-09-10,22:00 (15:00),WCQ,First round,Tue,Away,W,4,2,by Belarus,,,,"12,203",Hugo Lloris,,Daniele Orsato
+2013-10-15,21:00 (15:00),WCQ,First round,Tue,Home,W,3,0,fi Finland,,,,"70,156",Hugo Lloris,,Michael Koukoulakis
+2013-11-15,21:45 (14:45),WCQ,Second round,Fri,Away,L,0,2,ua Ukraine,,,,"67,732",Hugo Lloris,,Cüneyt Çakιr
+2013-11-19,21:00 (15:00),WCQ,Second round,Tue,Home,W,3,0,ua Ukraine,,,,"77,098",Hugo Lloris,,Damir Skomina
+2014-03-05,21:00 (15:00),Friendlies (M),Friendlies (M),Wed,Home,W,2,0,nl Netherlands,,,,"78,292",Hugo Lloris,4-1-4-1,Martin Atkinson
+2014-05-27,21:00 (15:00),Friendlies (M),Friendlies (M),Tue,Home,W,4,0,no Norway,,,,"70,000",Mamadou Sakho,4-1-4-1,Padraigh Sutton
+2014-06-01,21:00 (15:00),Friendlies (M),Friendlies (M),Sun,Home,D,1,1,py Paraguay,,,,"35,200",Hugo Lloris,4-1-4-1,Carlos Clos Gómez
+2014-06-08,21:00 (15:00),Friendlies (M),Friendlies (M),Sun,Neutral,W,8,0,jm Jamaica,,,,"49,600",Hugo Lloris,4-1-4-1,Felix Zwayer
+2014-06-15,16:00 (15:00),FIFA World Cup,Group stage,Sun,Neutral,W,3,0,hn Honduras,,,63,"43,012",,4-3-3,Sandro Ricci
+2014-06-20,16:00 (15:00),FIFA World Cup,Group stage,Fri,Neutral,W,5,2,ch Switzerland,,,43,"51,003",,4-3-3,Björn Kuipers
+2014-06-25,17:00 (16:00),FIFA World Cup,Group stage,Wed,Neutral,D,0,0,ec Ecuador,,,60,"73,749",,4-3-3,Noumandiez Doué
+2014-06-30,13:00 (12:00),FIFA World Cup,Round of 16,Mon,Neutral,W,2,0,ng Nigeria,,,49,"67,882",,4-3-3,Mark Geiger
+2014-07-04,13:00 (12:00),FIFA World Cup,Quarter-finals,Fri,Neutral,L,0,1,de Germany,,,50,"74,240",,4-3-3,Néstor Pitana
+2014-09-04,21:00 (15:00),Friendlies (M),Friendlies (M),Thu,Home,W,1,0,es Spain,,,,"80,000",Hugo Lloris,4-2-3-1,Alain Bieri
+2014-09-07,20:45 (14:45),Friendlies (M),Friendlies (M),Sun,Away,D,1,1,rs Serbia,,,,"12,500",Hugo Lloris,4-1-4-1,Wolfgang Stark
+2014-10-11,20:45 (14:45),Friendlies (M),Friendlies (M),Sat,Home,W,2,1,pt Portugal,,,,"79,000",Blaise Matuidi,4-1-4-1,Szymon Marciniak
+2014-10-14,20:00 (12:00),Friendlies (M),Friendlies (M),Tue,Away,W,3,0,am Armenia,,,,"6,000",Blaise Matuidi,4-2-3-1,István Kovács
+2014-11-14,20:45 (14:45),Friendlies (M),Friendlies (M),Fri,Home,D,1,1,al Albania,,,,"26,527",Hugo Lloris,4-3-1-2,Miroslav Zelinka
+2014-11-18,21:00 (15:00),Friendlies (M),Friendlies (M),Tue,Home,W,1,0,se Sweden,,,,"55,000",Raphaël Varane,4-2-3-1,Jesús Gil
+2008-09-06,20:45 (14:45),WCQ,First round,Sat,Away,L,1,3,at Austria,,,,"48,000",Thierry Henry,,Claus Bo Larsen
+2008-09-10,21:00 (15:00),WCQ,First round,Wed,Home,W,2,1,rs Serbia,,,,"53,027",Thierry Henry,,Olegário Benquerença
+2008-10-11,21:40 (14:40),WCQ,First round,Sat,Away,D,2,2,ro Romania,,,,"12,800",Thierry Henry,,Frank De Bleeckere
+2009-03-28,21:45 (15:45),WCQ,First round,Sat,Away,W,1,0,lt Lithuania,,,,"8,700",Thierry Henry,,Eric Braamhaar
+2009-04-01,21:00 (15:00),WCQ,First round,Wed,Home,W,1,0,lt Lithuania,,,,"79,543",Thierry Henry,,Howard Webb
+2009-08-12,17:00 (12:00),WCQ,First round,Wed,Away,W,1,0,fo Faroe Islands,,,,"2,974",William Gallas,,Michael Koukoulakis
+2009-09-05,21:00 (15:00),WCQ,First round,Sat,Home,D,1,1,ro Romania,,,,"78,209",Thierry Henry,,Ivan Bebek
+2009-09-09,21:00 (15:00),WCQ,First round,Wed,Away,D,1,1,rs Serbia,,,,"49,256",Thierry Henry,,Roberto Rosetti
+2009-10-10,21:00 (15:00),WCQ,First round,Sat,Home,W,5,0,fo Faroe Islands,,,,"16,755",Thierry Henry,,Robert Małek
+2009-10-14,21:00 (15:00),WCQ,First round,Wed,Home,W,3,1,at Austria,,,,"78,099",Thierry Henry,,Pedro Proença
+2009-11-14,20:00 (15:00),WCQ,Second round,Sat,Away,W,1,0,ie Rep. of Ireland,,,,"74,103",Thierry Henry,,Felix Brych
+2009-11-18,21:00 (15:00),WCQ,Second round,Wed,Home,D,1,1,ie Rep. of Ireland,,,,"79,145",Thierry Henry,,Martin Hansson
+2010-06-11,20:30 (14:30),FIFA World Cup,Group stage,Fri,Neutral,D,0,0,uy Uruguay,,,,"64,100",,4-2-3-1,
+2010-06-17,20:30 (14:30),FIFA World Cup,Group stage,Thu,Neutral,L,0,2,mx Mexico,,,,"35,370",,4-2-3-1,
+2010-06-22,16:00 (10:00),FIFA World Cup,Group stage,Tue,Neutral,L,1,2,za South Africa,,,,"39,415",,4-2-3-1,
+2010-09-03,21:00 (15:00),Euro Qualifying,Group stage,Fri,Home,L,0,1,by Belarus,,,,"76,395",Florent Malouda,,William Collum
+2010-09-07,21:00 (15:00),Euro Qualifying,Group stage,Tue,Away,W,2,0,ba Bosnia & Herz'na,,,,"28,000",Alou Diarra,,Felix Brych
+2010-10-09,21:00 (15:00),Euro Qualifying,Group stage,Sat,Home,W,2,0,ro Romania,,,,"79,299",Alou Diarra,,Pedro Proença
+2010-10-12,21:00 (15:00),Euro Qualifying,Group stage,Tue,Home,W,2,0,lu Luxembourg,,,,"24,710",Alou Diarra,,Matej Jug

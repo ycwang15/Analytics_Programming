@@ -1,0 +1,197 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Referee
+2019-09-10,18:50 (08:20),WCQ,Second round,Tue,Away,W,2,0,mm Myanmar,,,,"25,500",Maya Yoshida,4-2-3-1,Ahmad Ibrahim
+2019-10-10,19:35 (06:35),WCQ,Second round,Thu,Home,W,6,0,mn Mongolia,,,,"43,122",Maya Yoshida,4-2-3-1,Chae Sanghyeop
+2019-10-15,17:15 (08:15),WCQ,Second round,Tue,Away,W,3,0,tj Tajikistan,,,,"19,100",Maya Yoshida,4-2-2-2,Zaid Thamer Mohammed
+2019-11-14,17:20 (06:20),WCQ,Second round,Thu,Away,W,2,0,kg Kyrgyz Republic,,,,"17,543",Maya Yoshida,4-2-3-1,Mohammed Al Hoish
+2021-03-30,19:30 (06:30),WCQ,Second round,Tue,Away,W,14,0,mn Mongolia,,,,,Maya Yoshida,4-2-3-1,Omar Mohamed Al Ali
+2021-05-28,19:20 (06:20),WCQ,Second round,Fri,Home,W,10,0,mm Myanmar,,,,,Maya Yoshida,4-2-3-1,Hasan Akrami
+2021-06-07,19:30 (06:30),WCQ,Second round,Mon,Home,W,4,1,tj Tajikistan,,,,,Genki Haraguchi,4-2-3-1,Abdelrahman Al Jassim
+2021-06-15,19:25 (06:25),WCQ,Second round,Tue,Home,W,5,1,kg Kyrgyz Republic,,,,,Genki Haraguchi,4-2-3-1,Omar Mubarak Al Yaqoubi
+2021-09-02,19:14 (06:14),WCQ,Third round,Thu,Home,L,0,1,om Oman,,,,"4,853",Maya Yoshida,4-2-3-1,Mohammed Abdulla Hassan
+2021-09-07,18:00 (11:00),WCQ,Third round,Tue,Away,W,1,0,cn China PR,,,,,Maya Yoshida,4-2-3-1,Nawaf Shukralla
+2021-10-07,20:00 (13:00),WCQ,Third round,Thu,Away,L,0,1,sa Saudi Arabia,,,,"51,218",Maya Yoshida,4-2-3-1,Adham Makhadmeh
+2021-10-12,19:14 (06:14),WCQ,Third round,Tue,Home,W,2,1,au Australia,,,,"14,437",Maya Yoshida,4-1-4-1,Abdulrahman Ibrahim Al Jassim
+2021-11-11,19:00 (07:00),WCQ,Third round,Thu,Away,W,1,0,vn Vietnam,,,,"11,022",Maya Yoshida,4-2-2-2,Mohammed Abdulla Hassan
+2021-11-16,20:00 (11:00),WCQ,Third round,Tue,Away,W,1,0,om Oman,,,,"14,123",Maya Yoshida,4-1-4-1,Ko Hyungjin
+2022-01-27,19:00 (05:00),WCQ,Third round,Thu,Home,W,2,0,cn China PR,,,,"11,753",Wataru Endo,4-1-4-1,Abdulrahman Ibrahim Al Jassim
+2022-02-01,19:14 (05:14),WCQ,Third round,Tue,Home,W,2,0,sa Saudi Arabia,,,,"19,118",Wataru Endo,4-1-4-1,Ko Hyungjin
+2022-03-24,20:10 (05:10),WCQ,Third round,Thu,Away,W,2,0,au Australia,,,,"41,852",Maya Yoshida,4-1-4-1,Nawaf Shukralla
+2022-03-29,19:35 (06:35),WCQ,Third round,Tue,Home,D,1,1,vn Vietnam,,,,"44,600",Maya Yoshida,4-1-4-1,Ilgiz Tantashev
+2022-06-02,19:00 (06:00),Friendlies (M),Friendlies (M),Thu,Neutral,W,4,1,py Paraguay,,,,"24,511",Maya Yoshida,4-1-4-1,Chris Beath
+2022-06-06,19:20 (06:20),Friendlies (M),Friendlies (M),Mon,Neutral,L,0,1,br Brazil,,,,"63,638",Maya Yoshida,4-1-4-1,Alireza Faghani
+2022-09-23,14:25 (08:25),Friendlies (M),Friendlies (M),Fri,Neutral,W,2,0,us United States,,,,"5,149",Maya Yoshida,4-2-2-2,Felix Zwayer
+2022-09-27,13:55 (07:55),Friendlies (M),Friendlies (M),Tue,Neutral,D,0,0,ec Ecuador,,,,"4,321",Gaku Shibasaki,4-2-3-1,Sascha Stegemann
+2022-11-17,22:40 (08:40),Friendlies (M),Friendlies (M),Thu,Neutral,L,1,2,ca Canada,,,,"2,971",Gaku Shibasaki,4-2-3-1,Omar Mohamed Al Ali
+2022-11-23,16:00 (08:00),World Cup,Group stage,Wed,Neutral,W,2,1,de Germany,1.5,3.1,26,"42,608",Maya Yoshida,4-2-3-1,Iván Barton
+2022-11-27,13:00 (05:00),World Cup,Group stage,Sun,Neutral,L,0,1,cr Costa Rica,0.9,0.1,57,"41,479",Maya Yoshida,4-2-3-1,Michael Oliver
+2022-12-01,22:00 (14:00),World Cup,Group stage,Thu,Neutral,W,2,1,es Spain,1.4,1.0,18,"44,851",Maya Yoshida,3-4-3,Victor Gomes
+2021-03-25,19:20 (06:20),Friendlies (M),Friendlies (M),Thu,Home,W,3,0,kr Korea Republic,,,,"8,356",Maya Yoshida,4-2-3-1,Rowan Arumughan
+2021-03-30,19:30 (06:30),WCQ,Second round,Tue,Away,W,14,0,mn Mongolia,,,,,Maya Yoshida,4-2-3-1,Omar Mohamed Al Ali
+2021-05-28,19:20 (06:20),WCQ,Second round,Fri,Home,W,10,0,mm Myanmar,,,,,Maya Yoshida,4-2-3-1,Hasan Akrami
+2021-06-07,19:30 (06:30),WCQ,Second round,Mon,Home,W,4,1,tj Tajikistan,,,,,Genki Haraguchi,4-2-3-1,Abdelrahman Al Jassim
+2021-06-11,19:25 (06:25),Friendlies (M),Friendlies (M),Fri,Home,W,1,0,rs Serbia,,,,,Yuto Nagatomo,4-2-3-1,Payam Heydari
+2021-06-15,19:25 (06:25),WCQ,Second round,Tue,Home,W,5,1,kg Kyrgyz Republic,,,,,Genki Haraguchi,4-2-3-1,Omar Mubarak Al Yaqoubi
+2021-09-02,19:14 (06:14),WCQ,Third round,Thu,Home,L,0,1,om Oman,,,,"4,853",Maya Yoshida,4-2-3-1,Mohammed Abdulla Hassan
+2021-09-07,18:00 (11:00),WCQ,Third round,Tue,Away,W,1,0,cn China PR,,,,,Maya Yoshida,4-2-3-1,Nawaf Shukralla
+2021-10-07,20:00 (13:00),WCQ,Third round,Thu,Away,L,0,1,sa Saudi Arabia,,,,"51,218",Maya Yoshida,4-2-3-1,Adham Makhadmeh
+2021-10-12,19:14 (06:14),WCQ,Third round,Tue,Home,W,2,1,au Australia,,,,"14,437",Maya Yoshida,4-1-4-1,Abdulrahman Ibrahim Al Jassim
+2021-11-11,19:00 (07:00),WCQ,Third round,Thu,Away,W,1,0,vn Vietnam,,,,"11,022",Maya Yoshida,4-2-2-2,Mohammed Abdulla Hassan
+2021-11-16,20:00 (11:00),WCQ,Third round,Tue,Away,W,1,0,om Oman,,,,"14,123",Maya Yoshida,4-1-4-1,Ko Hyungjin
+2020-10-09,21:00 (08:00),Friendlies (M),Friendlies (M),Fri,Neutral,D,0,0,cm Cameroon,,,,,Maya Yoshida,4-2-3-1,Bas Nijhuis
+2020-10-13,16:45 (10:45),Friendlies (M),Friendlies (M),Tue,Neutral,W,1,0,ci Côte d'Ivoire,,,,,Maya Yoshida,4-2-3-1,Jochem Kamphuis
+2020-11-13,15:15 (09:15),Friendlies (M),Friendlies (M),Fri,Neutral,W,1,0,pa Panama,,,,,Maya Yoshida,3-4-3,Christian-Petru Ciochirca
+2020-11-17,14:00 (15:00),Friendlies (M),Friendlies (M),Tue,Neutral,L,0,2,mx Mexico,,,,,Maya Yoshida,3-4-3,Manuel Schüttengruber
+2019-01-09,15:00 (06:00),Asian Cup,Group stage,Wed,Neutral,W,3,2,tm Turkmenistan,,,70,"5,725",Maya Yoshida,4-2-3-1,Alireza Faghani
+2019-01-13,17:30 (08:30),Asian Cup,Group stage,Sun,Neutral,W,1,0,om Oman,,,63,"12,110",Maya Yoshida,4-2-3-1,Amirul Izwan Yaacob
+2019-01-17,17:30 (08:30),Asian Cup,Group stage,Thu,Neutral,W,2,1,uz Uzbekistan,,,43,"7,005",Toshihiro Aoyama,4-2-3-1,Mohammed Abdulla Hassan
+2019-01-21,15:00 (06:00),Asian Cup,Round of 16,Mon,Neutral,W,1,0,sa Saudi Arabia,,,24,"6,832",Maya Yoshida,4-4-2,Ravshan Irmatov
+2019-01-24,17:00 (08:00),Asian Cup,Quarter-finals,Thu,Neutral,W,1,0,vn Vietnam,,,68,"8,954",Maya Yoshida,4-4-2,Mohammed Abdulla Hassan
+2019-01-28,18:00 (09:00),Asian Cup,Semi-finals,Mon,Neutral,W,3,0,ir IR Iran,,,53,"23,262",Maya Yoshida,4-4-2,Chris Beath
+2019-02-01,18:00 (09:00),Asian Cup,Final,Fri,Neutral,L,1,3,qa Qatar,,,62,"36,776",Maya Yoshida,4-4-2,Ravshan Irmatov
+2019-03-22,19:20 (06:20),Friendlies (M),Friendlies (M),Fri,Home,L,0,1,co Colombia,,,,"63,302",Gaku Shibasaki,4-2-3-1,Peter Green
+2019-03-26,19:30 (06:30),Friendlies (M),Friendlies (M),Tue,Home,W,1,0,bo Bolivia,,,,"28,133",Shinji Kagawa,4-2-3-1,Kurt Ams
+2019-06-05,19:30 (06:30),Friendlies (M),Friendlies (M),Wed,Home,D,0,0,tt Trin & Tobago,,,,"38,507",Gaku Shibasaki,3-4-3,Zhang Lei
+2019-06-09,19:00 (06:00),Friendlies (M),Friendlies (M),Sun,Home,W,2,0,sv El Salvador,,,,"38,092",Gen Shoji,3-4-1-2,Ma Ning
+2019-06-17,20:00 (19:00),Copa América,Group stage,Mon,Neutral,L,0,4,cl Chile,2.2,1.7,45,,Gaku Shibasaki,4-4-2,Mario Díaz de Vivar
+2019-06-20,20:00 (19:00),Copa América,Group stage,Thu,Neutral,D,2,2,uy Uruguay,1.2,3.3,42,,Gaku Shibasaki,4-4-2,Andrés Rojas
+2019-06-24,20:00 (19:00),Copa América,Group stage,Mon,Neutral,D,1,1,ec Ecuador,1.6,1.7,51,"7,623",Gaku Shibasaki,4-4-2,Jesús Valenzuela
+2019-09-05,19:20 (06:20),Friendlies (M),Friendlies (M),Thu,Home,W,2,0,py Paraguay,,,,"29,071",Maya Yoshida,4-2-3-1,Kim Jonghyeok
+2019-09-10,18:50 (08:20),WCQ,Second round,Tue,Away,W,2,0,mm Myanmar,,,,"25,500",Maya Yoshida,4-2-3-1,Ahmad Ibrahim
+2019-10-10,19:35 (06:35),WCQ,Second round,Thu,Home,W,6,0,mn Mongolia,,,,"43,122",Maya Yoshida,4-2-3-1,Chae Sanghyeop
+2019-10-15,17:15 (08:15),WCQ,Second round,Tue,Away,W,3,0,tj Tajikistan,,,,"19,100",Maya Yoshida,4-2-2-2,Zaid Thamer Mohammed
+2019-11-14,17:20 (06:20),WCQ,Second round,Thu,Away,W,2,0,kg Kyrgyz Republic,,,,"17,543",Maya Yoshida,4-2-3-1,Mohammed Al Hoish
+2019-11-19,19:25 (05:25),Friendlies (M),Friendlies (M),Tue,Home,L,1,4,ve Venezuela,,,,"33,399",Gaku Shibasaki,4-2-2-2,Amirul Izwan Yaacob
+2015-06-16,19:30 (06:30),WCQ,Second round,Tue,Home,D,0,0,sg Singapore,,,,"57,533",,,Mohanad Qasim Sarray
+2015-09-03,19:25 (06:25),WCQ,Second round,Thu,Home,W,3,0,kh Cambodia,,,,"54,716",,,Kim Heegon
+2015-09-08,16:55 (08:25),WCQ,Second round,Tue,Away,W,6,0,af Afghanistan,,,,"8,650",,,Khamis Al Kuwari
+2015-10-08,17:00 (09:00),WCQ,Second round,Thu,Away,W,3,0,sy Syria,,,,680,,,Ravshan Irmatov
+2015-11-12,11:15 (06:15),WCQ,Second round,Thu,Away,W,3,0,sg Singapore,,,,"33,868",,,Fahad Al Mirdasi
+2015-11-17,19:14 (07:14),WCQ,Second round,Tue,Away,W,2,0,kh Cambodia,,,,"29,871",,,Fu Ming
+2016-03-24,19:30 (06:30),WCQ,Second round,Thu,Home,W,5,0,af Afghanistan,,,,"48,967",,,Mohanad Qasim Sarray
+2016-03-29,19:30 (06:30),WCQ,Second round,Tue,Home,W,5,0,sy Syria,,,,"57,475",,,Alireza Faghani
+2016-09-01,19:35 (06:35),WCQ,Third round,Thu,Home,L,1,2,ae UAE,,,,"58,895",,,Abdelrahman Al Jassim
+2016-09-06,19:15 (08:15),WCQ,Third round,Tue,Away,W,2,0,th Thailand,,,,"44,500",,,Mohsen Torki
+2016-10-06,19:35 (06:35),WCQ,Third round,Thu,Home,W,2,1,iq Iraq,,,,"57,768",,,Kim Dongjin
+2016-10-11,20:00 (05:00),WCQ,Third round,Tue,Away,D,1,1,au Australia,,,,"48,460",,,Nawaf Shukralla
+2016-11-15,19:35 (05:35),WCQ,Third round,Tue,Home,W,2,1,sa Saudi Arabia,,,,"58,420",,,Taqi Aljaafari Jahari
+2017-03-23,19:30 (11:30),WCQ,Third round,Thu,Away,W,2,0,ae UAE,,,,"23,725",,,Ravshan Irmatov
+2017-03-28,19:35 (06:35),WCQ,Third round,Tue,Home,W,4,0,th Thailand,,,,"59,003",,,Kim Dongjin
+2017-06-13,16:55 (08:25),WCQ,Third round,Tue,Away,D,1,1,iq Iraq,,,,983,,,Fu Ming
+2017-08-31,19:35 (06:35),WCQ,Third round,Thu,Home,W,2,0,au Australia,,,,"59,492",,,Alireza Faghani
+2017-09-05,20:30 (13:30),WCQ,Third round,Tue,Away,L,0,1,sa Saudi Arabia,,,,"62,165",,,Valentin Kovalenko
+2018-03-23,13:20 (08:20),Friendlies (M),Friendlies (M),Fri,Home,D,1,1,ml Mali,,,,"1,424",Makoto Hasebe,4-1-4-1,Erik Lambrechts
+2018-03-27,14:20 (08:20),Friendlies (M),Friendlies (M),Tue,Home,L,1,2,ua Ukraine,,,,"2,529",Makoto Hasebe,4-2-3-1,Bart Vertenten
+2018-05-30,19:25 (06:25),Friendlies (M),Friendlies (M),Wed,Home,L,0,2,gh Ghana,,,,"64,520",Makoto Hasebe,3-4-3,Chris Beath
+2018-06-08,19:00 (13:00),Friendlies (M),Friendlies (M),Fri,Away,L,0,2,ch Switzerland,,,,"7,010",Makoto Hasebe,4-2-3-1,Amaury Delerue
+2018-06-12,15:05 (09:05),Friendlies (M),Friendlies (M),Tue,Home,W,4,2,py Paraguay,,,,"1,202",Hotaru Yamaguchi,4-2-3-1,Oliver Drachta
+2018-06-19,15:00 (08:00),FIFA World Cup,Group stage,Tue,Neutral,W,2,1,co Colombia,2.0,1.0,60,"40,842",Makoto Hasebe,4-2-3-1,Damir Skomina
+2018-06-24,20:00 (11:00),FIFA World Cup,Group stage,Sun,Neutral,D,2,2,sn Senegal,0.9,1.4,56,"32,572",Makoto Hasebe,4-2-3-1,Gianluca Rocchi
+2018-06-28,17:00 (10:00),FIFA World Cup,Group stage,Thu,Neutral,L,0,1,pl Poland,0.7,1.4,54,"42,189",Eiji Kawashima,4-4-2,Janny Sikazwe
+2018-07-02,21:00 (14:00),FIFA World Cup,Round of 16,Mon,Neutral,L,2,3,be Belgium,0.7,2.5,42,"41,466",Makoto Hasebe,4-2-3-1,Malang Diédhiou
+2018-09-11,19:20 (06:20),Friendlies (M),Friendlies (M),Tue,Home,W,3,0,cr Costa Rica,,,,"33,891",Toshihiro Aoyama,4-2-3-1,Taqi Aljaafari Jahari
+2018-10-12,19:35 (06:35),Friendlies (M),Friendlies (M),Fri,Home,W,3,0,pa Panama,,,,"38,322",Toshihiro Aoyama,4-2-2-2,Kim Dongjin
+2018-10-16,19:35 (06:35),Friendlies (M),Friendlies (M),Tue,Home,W,4,3,uy Uruguay,,,,"57,239",Maya Yoshida,4-2-2-2,Ko Hyungjin
+2018-11-16,19:30 (05:30),Friendlies (M),Friendlies (M),Fri,Home,D,1,1,ve Venezuela,,,,"33,364",Maya Yoshida,4-2-3-1,Ravshan Irmatov
+2018-11-20,19:20 (05:20),Friendlies (M),Friendlies (M),Tue,Home,W,4,0,kg Kyrgyz Republic,,,,"38,353",Tomoaki Makino,4-2-2-2,Ilgiz Tantashev
+2017-03-23,19:30 (11:30),WCQ,Third round,Thu,Away,W,2,0,ae UAE,,,,"23,725",,,Ravshan Irmatov
+2017-03-28,19:35 (06:35),WCQ,Third round,Tue,Home,W,4,0,th Thailand,,,,"59,003",,,Kim Dongjin
+2017-06-07,19:25 (06:25),Friendlies (M),Friendlies (M),Wed,Home,D,1,1,sy Syria,,,,"43,608",Maya Yoshida,4-2-3-1,Daniel Stefański
+2017-06-13,16:55 (08:25),WCQ,Third round,Tue,Away,D,1,1,iq Iraq,,,,983,,,Fu Ming
+2017-08-31,19:35 (06:35),WCQ,Third round,Thu,Home,W,2,0,au Australia,,,,"59,492",,,Alireza Faghani
+2017-09-05,20:30 (13:30),WCQ,Third round,Tue,Away,L,0,1,sa Saudi Arabia,,,,"62,165",,,Valentin Kovalenko
+2017-10-06,19:20 (06:20),Friendlies (M),Friendlies (M),Fri,Home,W,2,1,nz New Zealand,,,,,Maya Yoshida,4-1-4-1,Liu Kwok Man
+2017-10-10,19:30 (06:30),Friendlies (M),Friendlies (M),Tue,Home,D,3,3,ht Haiti,,,,,Yuto Nagatomo,4-1-4-1,Peter Green
+2017-11-10,13:00 (07:00),Friendlies (M),Friendlies (M),Fri,Home,L,1,3,br Brazil,,,,,Yuto Nagatomo,4-1-4-1,Benoît Bastien
+2017-11-14,20:45 (14:45),Friendlies (M),Friendlies (M),Tue,Away,L,0,1,be Belgium,,,,,Maya Yoshida,4-1-4-1,Danny Makkelie
+2016-03-24,19:30 (06:30),WCQ,Second round,Thu,Home,W,5,0,af Afghanistan,,,,"48,967",,,Mohanad Qasim Sarray
+2016-03-29,19:30 (06:30),WCQ,Second round,Tue,Home,W,5,0,sy Syria,,,,"57,475",,,Alireza Faghani
+2016-09-01,19:35 (06:35),WCQ,Third round,Thu,Home,L,1,2,ae UAE,,,,"58,895",,,Abdelrahman Al Jassim
+2016-09-06,19:15 (08:15),WCQ,Third round,Tue,Away,W,2,0,th Thailand,,,,"44,500",,,Mohsen Torki
+2016-10-06,19:35 (06:35),WCQ,Third round,Thu,Home,W,2,1,iq Iraq,,,,"57,768",,,Kim Dongjin
+2016-10-11,20:00 (05:00),WCQ,Third round,Tue,Away,D,1,1,au Australia,,,,"48,460",,,Nawaf Shukralla
+2016-11-11,19:20 (05:20),Friendlies (M),Friendlies (M),Fri,Home,W,4,0,om Oman,,,,"33,709",Keisuke Honda,4-2-3-1,Liu Kwok Man
+2016-11-15,19:35 (05:35),WCQ,Third round,Tue,Home,W,2,1,sa Saudi Arabia,,,,"58,420",,,Taqi Aljaafari Jahari
+2015-01-12,18:00 (02:00),Asian Cup,Group stage,Mon,Neutral,W,4,0,ps Palestine,,,64,"15,497",Makoto Hasebe,4-1-4-1,Abdulrahman Hussain
+2015-01-16,19:00 (04:00),Asian Cup,Group stage,Fri,Neutral,W,1,0,iq Iraq,,,61,"22,941",Makoto Hasebe,4-1-4-1,Alireza Faghani
+2015-01-20,20:00 (04:00),Asian Cup,Group stage,Tue,Neutral,W,2,0,jo Jordan,,,66,"25,016",Makoto Hasebe,4-1-4-1,Ravshan Irmatov
+2015-01-23,20:30 (04:30),Asian Cup,Quarter-finals,Fri,Neutral,D,1 (4),1 (5),ae UAE,,,68,"19,094",Makoto Hasebe,4-1-4-1,Alireza Faghani
+2015-03-27,19:30 (06:30),Friendlies (M),Friendlies (M),Fri,Home,W,2,0,tn Tunisia,,,,"34,777",Makoto Hasebe,4-2-3-1,Benjamin Williams
+2015-03-31,19:25 (06:25),Friendlies (M),Friendlies (M),Tue,Home,W,5,1,uz Uzbekistan,,,,"46,007",Keisuke Honda,4-2-3-1,Strebre Delovski
+2015-06-11,19:00 (06:00),Friendlies (M),Friendlies (M),Thu,Home,W,4,0,iq Iraq,,,,"63,877",Makoto Hasebe,4-2-3-1,Daniel Stefański
+2015-06-16,19:30 (06:30),WCQ,Second round,Tue,Home,D,0,0,sg Singapore,,,,"57,533",,,Mohanad Qasim Sarray
+2015-09-03,19:25 (06:25),WCQ,Second round,Thu,Home,W,3,0,kh Cambodia,,,,"54,716",,,Kim Heegon
+2015-09-08,16:55 (08:25),WCQ,Second round,Tue,Away,W,6,0,af Afghanistan,,,,"8,650",,,Khamis Al Kuwari
+2015-10-08,17:00 (09:00),WCQ,Second round,Thu,Away,W,3,0,sy Syria,,,,680,,,Ravshan Irmatov
+2015-10-13,17:00 (09:30),Friendlies (M),Friendlies (M),Tue,Away,D,1,1,ir IR Iran,,,,"15,000",Makoto Hasebe,4-2-3-1,Yaqoob Said Abdul Baqi
+2015-11-12,11:15 (06:15),WCQ,Second round,Thu,Away,W,3,0,sg Singapore,,,,"33,868",,,Fahad Al Mirdasi
+2015-11-17,19:14 (07:14),WCQ,Second round,Tue,Away,W,2,0,kh Cambodia,,,,"29,871",,,Fu Ming
+2011-09-02,19:25 (06:25),WCQ,Third round,Fri,Home,W,1,0,kp Korea DPR,,,,"62,000",Makoto Hasebe,,Ali Hamad Al Badwawi
+2011-09-06,19:00 (10:00),WCQ,Third round,Tue,Away,D,1,1,uz Uzbekistan,,,,"32,000",Makoto Hasebe,,Khalil Al Ghamdi
+2011-10-11,19:45 (06:45),WCQ,Third round,Tue,Home,W,8,0,tj Tajikistan,,,,"44,688",Makoto Hasebe,,Benjamin Williams
+2011-11-11,14:00 (04:00),WCQ,Third round,Fri,Away,W,4,0,tj Tajikistan,,,,"18,000",Makoto Hasebe,,Kim Dongjin
+2011-11-15,16:00 (02:00),WCQ,Third round,Tue,Away,L,0,1,kp Korea DPR,,,,"50,000",Makoto Hasebe,,Nawaf Shukralla
+2012-02-29,19:30 (05:30),WCQ,Third round,Wed,Home,L,0,1,uz Uzbekistan,,,,"42,720",Makoto Hasebe,,Abdullah Al Baloushi
+2012-06-03,19:30 (06:30),WCQ,Fourth round,Sun,Home,W,3,0,om Oman,,,,"63,551",Makoto Hasebe,,Ravshan Irmatov
+2012-06-08,19:30 (06:30),WCQ,Fourth round,Fri,Home,W,6,0,jo Jordan,,,,"60,874",Makoto Hasebe,,Kim Dongjin
+2012-06-12,20:00 (06:00),WCQ,Fourth round,Tue,Away,D,1,1,au Australia,,,,"40,189",Makoto Hasebe,,Khalil Al Ghamdi
+2012-09-11,19:30 (06:30),WCQ,Fourth round,Tue,Home,W,1,0,iq Iraq,,,,"60,593",Makoto Hasebe,,Abdul Malik Abdul Bashir
+2012-11-14,15:30 (06:30),WCQ,Fourth round,Wed,Away,W,2,1,om Oman,,,,"28,360",Makoto Hasebe,,Abdullah Al Baloushi
+2013-03-26,17:00 (10:00),WCQ,Fourth round,Tue,Away,L,1,2,jo Jordan,,,,"18,000",Makoto Hasebe,,Alireza Faghani
+2013-06-04,19:34 (06:34),WCQ,Fourth round,Tue,Home,D,1,1,au Australia,,,,"62,172",Makoto Hasebe,,Nawaf Shukralla
+2013-06-11,17:30 (10:30),WCQ,Fourth round,Tue,Away,W,1,0,iq Iraq,,,,"1,100",Yasuhito Endō,,Valentin Kovalenko
+2014-03-05,19:40 (05:40),Friendlies (M),Friendlies (M),Wed,Home,W,4,2,nz New Zealand,,,,"47,670",Yuto Nagatomo,4-2-3-1,Alan Milliner
+2014-05-27,19:30 (06:30),Friendlies (M),Friendlies (M),Tue,Home,W,1,0,cy Cyprus,,,,"58,564",Yasuhito Endō,4-2-3-1,Paweł Raczkowski
+2014-06-02,21:00,Friendlies (M),Friendlies (M),Mon,Home,W,3,1,cr Costa Rica,,,,"7,106",Keisuke Honda,4-2-3-1,Chris Penso
+2014-06-06,19:30,Friendlies (M),Friendlies (M),Fri,Neutral,W,4,3,zm Zambia,,,,"7,275",Yasuhito Endō,4-2-3-1,Edvin Jurisevic
+2014-06-14,22:00 (21:00),FIFA World Cup,Group stage,Sat,Neutral,L,1,2,ci Côte d'Ivoire,,,43,"40,267",,4-2-3-1,Enrique Osses
+2014-06-19,19:00 (18:00),FIFA World Cup,Group stage,Thu,Neutral,D,0,0,gr Greece,,,68,"39,485",,4-2-3-1,Joel Aguilar
+2014-06-24,16:00,FIFA World Cup,Group stage,Tue,Neutral,L,1,4,co Colombia,,,56,"40,340",,4-2-3-1,Pedro Proença
+2014-09-05,19:25 (06:25),Friendlies (M),Friendlies (M),Fri,Home,L,0,2,uy Uruguay,,,,"39,294",Keisuke Honda,4-1-4-1,Kim Sangwoo
+2014-09-09,19:20 (06:20),Friendlies (M),Friendlies (M),Tue,Home,W,3,0,ve Venezuela,,,,"72,000",Keisuke Honda,4-1-4-1,Chris Beath
+2014-10-10,19:25 (06:25),Friendlies (M),Friendlies (M),Fri,Home,W,1,0,jm Jamaica,,,,"39,628",Keisuke Honda,4-1-4-1,Ma Ning
+2014-10-14,18:45 (06:45),Friendlies (M),Friendlies (M),Tue,Home,L,0,4,br Brazil,,,,"51,577",Eiji Kawashima,4-1-4-1,Ahmad A'Qashah
+2014-11-14,19:35 (05:35),Friendlies (M),Friendlies (M),Fri,Home,W,6,0,hn Honduras,,,,"42,126",Makoto Hasebe,4-1-4-1,Bartosz Frankowski
+2014-11-18,19:20 (05:20),Friendlies (M),Friendlies (M),Tue,Home,W,2,1,au Australia,,,,"46,312",Makoto Hasebe,4-1-4-1,Paweł Gil
+2013-03-26,17:00 (10:00),WCQ,Fourth round,Tue,Away,L,1,2,jo Jordan,,,,"18,000",Makoto Hasebe,,Alireza Faghani
+2013-06-04,19:34 (06:34),WCQ,Fourth round,Tue,Home,D,1,1,au Australia,,,,"62,172",Makoto Hasebe,,Nawaf Shukralla
+2013-06-11,17:30 (10:30),WCQ,Fourth round,Tue,Away,W,1,0,iq Iraq,,,,"1,100",Yasuhito Endō,,Valentin Kovalenko
+2013-06-15,16:00 (15:00),FIFA Confederations Cup,Group stage,Sat,Away,L,0,3,br Brazil,,,,"67,423",Makoto Hasebe,4-2-3-1,Pedro Proença
+2013-06-19,19:00 (18:00),FIFA Confederations Cup,Group stage,Wed,Away,L,3,4,it Italy,,,,"40,489",Makoto Hasebe,4-2-3-1,Diego Abal
+2013-06-22,16:00 (15:00),FIFA Confederations Cup,Group stage,Sat,Home,L,1,2,mx Mexico,,,,"52,690",Yasuhito Endō,4-2-3-1,Felix Brych
+2009-01-20,19:20 (05:20),AFC Asian Cup qualification,Qualifying round,Tue,Home,W,2,1,ye Yemen,,,,"32,000",Kengo Nakamura,,Tan Hai
+2009-01-28,18:15 (10:15),AFC Asian Cup qualification,Qualifying round,Wed,Away,L,0,1,bh Bahrain,,,,"11,200",Yuji Nakazawa,,Ravshan Irmatov
+2009-10-08,19:20 (06:20),AFC Asian Cup qualification,Qualifying round,Thu,Home,W,6,0,hk Hong Kong,,,,"16,028",Yuji Nakazawa,,Mohsen Torki
+2009-11-18,18:30 (05:30),AFC Asian Cup qualification,Qualifying round,Wed,Away,W,4,0,hk Hong Kong,,,,"13,254",Yuji Nakazawa,,Peter Green
+2010-01-06,16:15 (08:15),AFC Asian Cup qualification,Qualifying round,Wed,Away,W,3,2,ye Yemen,,,,"10,000",Tomoaki Makino,,Ali Hamad Al Badwawi
+2010-03-03,19:00 (05:00),AFC Asian Cup qualification,Qualifying round,Wed,Home,W,2,0,bh Bahrain,,,,"38,042",Yuji Nakazawa,,Abdul Malik Abdul Bashir
+2011-01-09,16:15 (08:15),Asian Cup,Group stage,Sun,Home,D,1,1,jo Jordan,,,,"6,255",Makoto Hasebe,4-2-3-1,Abdul Malik Abdul Bashir
+2011-01-13,19:15 (11:15),Asian Cup,Group stage,Thu,Away,W,2,1,sy Syria,,,,"10,453",Makoto Hasebe,4-2-3-1,Mohsen Torki
+2011-01-17,16:15 (08:15),Asian Cup,Group stage,Mon,Away,W,5,0,sa Saudi Arabia,,,,"2,022",Makoto Hasebe,4-2-3-1,Ravshan Irmatov
+2011-01-21,16:25 (08:25),Asian Cup,Quarter-finals,Fri,Home,W,3,2,qa Qatar,,,,"19,479",Makoto Hasebe,4-2-3-1,Subkhiddin Salleh
+2011-01-25,16:25 (08:25),Asian Cup,Semi-finals,Tue,Home,D,2 (3),2 (0),kr Korea Republic,,,,"16,171",Makoto Hasebe,4-2-3-1,Khalil Al Ghamdi
+2011-01-29,18:00 (10:00),Asian Cup,Final,Sat,Away,W,1,0,au Australia,,,,"37,174",Makoto Hasebe,4-2-3-1,Ravshan Irmatov
+2011-09-02,19:25 (06:25),WCQ,Third round,Fri,Home,W,1,0,kp Korea DPR,,,,"62,000",Makoto Hasebe,,Ali Hamad Al Badwawi
+2011-09-06,19:00 (10:00),WCQ,Third round,Tue,Away,D,1,1,uz Uzbekistan,,,,"32,000",Makoto Hasebe,,Khalil Al Ghamdi
+2011-10-11,19:45 (06:45),WCQ,Third round,Tue,Home,W,8,0,tj Tajikistan,,,,"44,688",Makoto Hasebe,,Benjamin Williams
+2011-11-11,14:00 (04:00),WCQ,Third round,Fri,Away,W,4,0,tj Tajikistan,,,,"18,000",Makoto Hasebe,,Kim Dongjin
+2011-11-15,16:00 (02:00),WCQ,Third round,Tue,Away,L,0,1,kp Korea DPR,,,,"50,000",Makoto Hasebe,,Nawaf Shukralla
+2008-02-06,19:20 (05:20),WCQ,Third round,Wed,Home,W,4,1,th Thailand,,,,"35,130",Yoshikatsu Kawaguchi,,Khalil Al Ghamdi
+2008-03-26,17:20 (10:20),WCQ,Third round,Wed,Away,L,0,1,bh Bahrain,,,,"26,000",Yoshikatsu Kawaguchi,,Mark Shield
+2008-06-02,19:20 (06:20),WCQ,Third round,Mon,Home,W,3,0,om Oman,,,,"46,764",Yuji Nakazawa,,Abdul Malik Abdul Bashir
+2008-06-07,17:15 (09:15),WCQ,Third round,Sat,Away,D,1,1,om Oman,,,,"6,500",Yuji Nakazawa,,Subkhiddin Salleh
+2008-06-14,17:20 (06:20),WCQ,Third round,Sat,Away,W,3,0,th Thailand,,,,"25,000",Yuji Nakazawa,,Ali Hamad Al Badwawi
+2008-06-22,19:20 (06:20),WCQ,Third round,Sun,Home,W,1,0,bh Bahrain,,,,"51,180",Yuji Nakazawa,,Ravshan Irmatov
+2008-09-06,21:30 (14:30),WCQ,Fourth round,Sat,Away,W,3,2,bh Bahrain,,,,"20,000",Yuji Nakazawa,,Abdul Malik Abdul Bashir
+2008-10-15,19:30 (06:30),WCQ,Fourth round,Wed,Home,D,1,1,uz Uzbekistan,,,,"55,142",Yuji Nakazawa,,Ali Hamad Al Badwawi
+2008-11-19,19:30 (11:30),WCQ,Fourth round,Wed,Away,W,3,0,qa Qatar,,,,"13,000",Yoshikatsu Kawaguchi,,Sun Baojie
+2009-02-11,19:20 (05:20),WCQ,Fourth round,Wed,Home,D,0,0,au Australia,,,,"66,000",Yuji Nakazawa,,Mohsen Basma
+2009-03-28,19:20 (06:20),WCQ,Fourth round,Sat,Home,W,1,0,bh Bahrain,,,,"62,000",Yuji Nakazawa,,Kim Dongjin
+2009-06-06,19:05 (10:05),WCQ,Fourth round,Sat,Away,W,1,0,uz Uzbekistan,,,,"34,000",Yuji Nakazawa,,Mohsen Basma
+2009-06-10,19:35 (06:35),WCQ,Fourth round,Wed,Home,D,1,1,qa Qatar,,,,"60,256",Yuji Nakazawa,,Subkhiddin Salleh
+2009-06-17,20:20 (06:20),WCQ,Fourth round,Wed,Away,L,1,2,au Australia,,,,"69,238",Seigo Narazaki,,Khalil Al Ghamdi
+2010-01-06,16:15 (08:15),AFC Asian Cup qualification,Qualifying round,Wed,Away,W,3,2,ye Yemen,,,,"10,000",Tomoaki Makino,,Ali Hamad Al Badwawi
+2010-03-03,19:00 (05:00),AFC Asian Cup qualification,Qualifying round,Wed,Home,W,2,0,bh Bahrain,,,,"38,042",Yuji Nakazawa,,Abdul Malik Abdul Bashir
+2010-06-14,16:00 (10:00),FIFA World Cup,Group stage,Mon,Neutral,W,1,0,cm Cameroon,,,,"30,620",,4-3-3,
+2010-06-19,13:30 (07:30),FIFA World Cup,Group stage,Sat,Neutral,L,0,1,nl Netherlands,,,,"62,010",,4-3-3,
+2010-06-24,20:30 (14:30),FIFA World Cup,Group stage,Thu,Neutral,W,3,1,dk Denmark,,,,"27,967",,4-3-3,
+2010-06-29,16:00 (10:00),FIFA World Cup,Round of 16,Tue,Neutral,D,0 (3),0 (5),py Paraguay,,,,"36,742",,4-3-3,

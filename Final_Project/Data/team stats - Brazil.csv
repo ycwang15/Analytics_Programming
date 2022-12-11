@@ -1,0 +1,170 @@
+Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,xG,xGA,Poss,Attendance,Captain,Formation,Referee
+2020-10-09,21:30 (20:30),WCQ,WCQ — CONMEBOL (M),Fri,Home,W,5,0,bo Bolivia,,,69,,Casemiro,4-3-3,Leodán González
+2020-10-13,19:00 (20:00),WCQ,WCQ — CONMEBOL (M),Tue,Away,W,4,2,pe Peru,,,66,,Thiago Silva,4-3-3,Julio Bascuñán
+2020-11-13,21:30 (19:30),WCQ,WCQ — CONMEBOL (M),Fri,Home,W,1,0,ve Venezuela,,,74,,Thiago Silva,4-3-3,Juan Benítez
+2020-11-17,20:00 (18:00),WCQ,WCQ — CONMEBOL (M),Tue,Away,W,2,0,uy Uruguay,,,59,,Thiago Silva,4-3-3,Roberto Tobar
+2021-06-04,21:30 (20:30),WCQ,WCQ — CONMEBOL (M),Fri,Home,W,2,0,ec Ecuador,,,66,,Casemiro,4-3-3,Alexis Herrera
+2021-06-08,20:30,WCQ,WCQ — CONMEBOL (M),Tue,Away,W,2,0,py Paraguay,,,50,,Marquinhos,4-2-2-2,Patricio Loustau
+2021-09-02,21:00,WCQ,WCQ — CONMEBOL (M),Thu,Away,W,1,0,cl Chile,,,39,,Casemiro,4-4-2,Diego Haro
+2021-09-05,16:00 (15:00),WCQ,WCQ — CONMEBOL (M),Sun,Home,,0,0,ar Argentina,,,50,,Casemiro,4-2-2-2,Jesús Valenzuela
+2021-09-09,21:30 (20:30),WCQ,WCQ — CONMEBOL (M),Thu,Home,W,2,0,pe Peru,,,58,,Casemiro,4-4-2,Wilmar Roldán
+2021-10-07,19:30,WCQ,WCQ — CONMEBOL (M),Thu,Away,W,3,1,ve Venezuela,,,67,,Thiago Silva,4-4-2,Kevin Ortega
+2021-10-10,16:00 (17:00),WCQ,WCQ — CONMEBOL (M),Sun,Away,D,0,0,co Colombia,,,64,,Marquinhos,4-2-3-1,Patricio Loustau
+2021-10-14,20:30,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,4,1,uy Uruguay,,,55,,Thiago Silva,4-2-3-1,Fernando Rapallini
+2021-11-11,21:30 (19:30),WCQ,WCQ — CONMEBOL (M),Thu,Home,W,1,0,co Colombia,,,63,,Thiago Silva,4-3-3,Roberto Tobar
+2021-11-16,20:30 (18:30),WCQ,WCQ — CONMEBOL (M),Tue,Away,D,0,0,ar Argentina,,,44,,Marquinhos,4-2-3-1,Andrés Cunha
+2022-01-27,16:00,WCQ,WCQ — CONMEBOL (M),Thu,Away,D,1,1,ec Ecuador,,,54,,Casemiro,4-4-2,Wilmar Roldán
+2022-02-01,21:30 (19:30),WCQ,WCQ — CONMEBOL (M),Tue,Home,W,4,0,py Paraguay,,,77,,Dani Alves,4-3-3,Facundo Tello
+2022-03-24,20:30 (19:30),WCQ,WCQ — CONMEBOL (M),Thu,Home,W,4,0,cl Chile,,,58,,Thiago Silva,4-2-3-1,Darío Herrera
+2022-03-29,19:30,WCQ,WCQ — CONMEBOL (M),Tue,Away,W,4,0,bo Bolivia,,,56,,Dani Alves,4-2-3-1,Eber Aquino
+2022-06-02,20:00 (07:00),Friendlies (M),Friendlies (M),Thu,Neutral,W,5,1,kr Korea Republic,,,,"64,872",Dani Alves,4-2-2-2,Ryūji Satō
+2022-06-06,19:20 (06:20),Friendlies (M),Friendlies (M),Mon,Neutral,W,1,0,jp Japan,,,,"63,638",Dani Alves,4-2-2-2,Alireza Faghani
+2022-09-23,20:30 (14:30),Friendlies (M),Friendlies (M),Fri,Neutral,W,3,0,gh Ghana,,,,,Thiago Silva,4-3-3,Mikael Lesage
+2022-09-27,15:30 (14:30),Friendlies (M),Friendlies (M),Tue,Neutral,W,5,1,tn Tunisia,,,,,Thiago Silva,4-2-3-1,Ruddy Buquet
+2022-11-24,22:00 (14:00),World Cup,Group stage,Thu,Neutral,W,2,0,rs Serbia,2.4,0.2,59,"88,103",Thiago Silva,4-2-3-1,Alireza Faghani
+2022-11-28,19:00 (11:00),World Cup,Group stage,Mon,Neutral,W,1,0,ch Switzerland,1.0,0.3,54,"43,649",Thiago Silva,4-3-3,Iván Barton
+2022-12-02,22:00 (14:00),World Cup,Group stage,Fri,Neutral,L,0,1,cm Cameroon,2.5,0.5,65,"85,986",Dani Alves,4-2-3-1,Ismail Elfath
+2021-06-04,21:30 (20:30),WCQ,WCQ — CONMEBOL (M),Fri,Home,W,2,0,ec Ecuador,,,66,,Casemiro,4-3-3,Alexis Herrera
+2021-06-08,20:30,WCQ,WCQ — CONMEBOL (M),Tue,Away,W,2,0,py Paraguay,,,50,,Marquinhos,4-2-2-2,Patricio Loustau
+2021-06-13,18:00 (17:00),Copa América,Group stage,Sun,Neutral,W,3,0,ve Venezuela,4.9,0.1,62,,Casemiro,4-3-3,Esteban Ostojich
+2021-06-17,21:00 (20:00),Copa América,Group stage,Thu,Neutral,W,4,0,pe Peru,3.5,1.7,55,,Thiago Silva,4-4-2,Patricio Loustau
+2021-06-23,21:00 (20:00),Copa América,Group stage,Wed,Neutral,W,2,1,co Colombia,2.8,0.2,69,,Marquinhos,4-4-2,Néstor Pitana
+2021-06-27,18:00 (17:00),Copa América,Group stage,Sun,Neutral,D,1,1,ec Ecuador,1.1,0.6,60,,Marquinhos,4-2-3-1,Roberto Tobar
+2021-07-02,21:00 (20:00),Copa América,Quarter-finals,Fri,Neutral,W,1,0,cl Chile,2.3,0.5,42,,Thiago Silva,4-2-3-1,Patricio Loustau
+2021-07-05,20:00 (19:00),Copa América,Semi-finals,Mon,Home,W,1,0,pe Peru,2.4,0.7,55,,Thiago Silva,4-2-3-1,Roberto Tobar
+2021-07-10,21:00 (20:00),Copa América,Final,Sat,Neutral,L,0,1,ar Argentina,0.7,0.5,59,"7,800",Thiago Silva,4-3-3,Esteban Ostojich
+2021-09-02,21:00,WCQ,WCQ — CONMEBOL (M),Thu,Away,W,1,0,cl Chile,,,39,,Casemiro,4-4-2,Diego Haro
+2021-09-05,16:00 (15:00),WCQ,WCQ — CONMEBOL (M),Sun,Home,,0,0,ar Argentina,,,50,,Casemiro,4-2-2-2,Jesús Valenzuela
+2021-09-09,21:30 (20:30),WCQ,WCQ — CONMEBOL (M),Thu,Home,W,2,0,pe Peru,,,58,,Casemiro,4-4-2,Wilmar Roldán
+2021-10-07,19:30,WCQ,WCQ — CONMEBOL (M),Thu,Away,W,3,1,ve Venezuela,,,67,,Thiago Silva,4-4-2,Kevin Ortega
+2021-10-10,16:00 (17:00),WCQ,WCQ — CONMEBOL (M),Sun,Away,D,0,0,co Colombia,,,64,,Marquinhos,4-2-3-1,Patricio Loustau
+2021-10-14,20:30,WCQ,WCQ — CONMEBOL (M),Thu,Home,W,4,1,uy Uruguay,,,55,,Thiago Silva,4-2-3-1,Fernando Rapallini
+2021-11-11,21:30 (19:30),WCQ,WCQ — CONMEBOL (M),Thu,Home,W,1,0,co Colombia,,,63,,Thiago Silva,4-3-3,Roberto Tobar
+2021-11-16,20:30 (18:30),WCQ,WCQ — CONMEBOL (M),Tue,Away,D,0,0,ar Argentina,,,44,,Marquinhos,4-2-3-1,Andrés Cunha
+2019-03-23,17:00 (13:00),Friendlies (M),Friendlies (M),Sat,Neutral,D,1,1,pa Panama,,,,"39,410",Casemiro,4-1-4-1,João Pinheiro
+2019-03-26,20:45 (15:45),Friendlies (M),Friendlies (M),Tue,Away,W,3,1,cz Czech Republic,,,,"19,116",Casemiro,4-1-4-1,Ovidiu Hațegan
+2019-06-05,21:30 (20:30),Friendlies (M),Friendlies (M),Wed,Home,W,2,0,qa Qatar,,,,"34,204",Dani Alves,4-1-4-1,José Argote
+2019-06-09,16:00 (15:00),Friendlies (M),Friendlies (M),Sun,Home,W,7,0,hn Honduras,,,,"16,521",Dani Alves,4-1-4-1,Andrés Cunha
+2019-06-14,21:30 (20:30),Copa América,Group stage,Fri,Neutral,W,3,0,bo Bolivia,3.2,0.3,74,"46,342",Dani Alves,4-2-3-1,Néstor Pitana
+2019-06-18,21:30 (20:30),Copa América,Group stage,Tue,Neutral,D,0,0,ve Venezuela,1.4,0.2,69,,Dani Alves,4-2-3-1,Julio Bascuñán
+2019-06-22,16:00 (15:00),Copa América,Group stage,Sat,Neutral,W,5,0,pe Peru,4.0,0.3,68,,Dani Alves,4-2-3-1,Fernando Rapallini
+2019-06-27,21:30 (20:30),Copa América,Quarter-finals,Thu,Neutral,D,0 (4),0 (3),py Paraguay,1.7,0.4,70,"44,902",Dani Alves,4-2-3-1,Roberto Tobar
+2019-07-02,21:30 (20:30),Copa América,Semi-finals,Tue,Neutral,W,2,0,ar Argentina,1.3,0.6,49,,Dani Alves,4-2-3-1,Roddy Zambrano
+2019-07-07,17:00 (16:00),Copa América,Final,Sun,Neutral,W,3,1,pe Peru,2.0,1.0,54,,Dani Alves,4-2-3-1,Roberto Tobar
+2019-09-06,20:30,Friendlies (M),Friendlies (M),Fri,Neutral,D,2,2,co Colombia,,,,,Dani Alves,4-3-3,Ismail Elfath
+2019-09-10,20:00 (23:00),Friendlies (M),Friendlies (M),Tue,Home,L,0,1,pe Peru,,,,,Casemiro,4-3-3,Jair Marrufo
+2019-10-10,20:00 (08:00),Friendlies (M),Friendlies (M),Thu,Home,D,1,1,sn Senegal,,,,,Dani Alves,4-2-2-2,Taqi Aljaafari Jahari
+2019-10-13,20:00 (08:00),Friendlies (M),Friendlies (M),Sun,Home,D,1,1,ng Nigeria,,,,,Dani Alves,4-2-3-1,Jansen Foo
+2019-11-15,20:00 (12:00),Friendlies (M),Friendlies (M),Fri,Home,L,0,1,ar Argentina,,,,"22,541",Thiago Silva,4-1-4-1,Matt Conger
+2019-11-19,17:30 (08:30),Friendlies (M),Friendlies (M),Tue,Neutral,W,3,0,kr Korea Republic,,,,"9,000",Marquinhos,4-1-4-1,Ammar Ali Al Junaibi
+2015-10-08,20:30 (19:30),WCQ,WCQ — CONMEBOL (M),Thu,Away,L,0,2,cl Chile,,,,,,,Roddy Zambrano
+2015-10-13,22:00 (21:00),WCQ,WCQ — CONMEBOL (M),Tue,Home,W,3,1,ve Venezuela,,,,,,,Darío Ubríaco
+2015-11-13,21:00 (19:00),WCQ,WCQ — CONMEBOL (M),Fri,Away,D,1,1,ar Argentina,,,,,,,Antonio Arias
+2015-11-17,21:00 (19:00),WCQ,WCQ — CONMEBOL (M),Tue,Home,W,3,0,pe Peru,,,,,,,Hernando Buitrago
+2016-03-25,21:45 (20:45),WCQ,WCQ — CONMEBOL (M),Fri,Home,D,2,2,uy Uruguay,,,,,,,Néstor Pitana
+2016-03-29,20:45,WCQ,WCQ — CONMEBOL (M),Tue,Away,D,2,2,py Paraguay,,,,,,,Wilmar Roldán
+2016-09-01,16:00 (17:00),WCQ,WCQ — CONMEBOL (M),Thu,Away,W,3,0,ec Ecuador,,,,,,,Enrique Cáceres
+2016-09-06,20:45,WCQ,WCQ — CONMEBOL (M),Tue,Home,W,2,1,co Colombia,,,,,,,Patricio Loustau
+2016-10-06,21:45 (20:45),WCQ,WCQ — CONMEBOL (M),Thu,Home,W,5,0,bo Bolivia,,,,"30,013",,,Wilson Lamouroux
+2016-10-11,20:30,WCQ,WCQ — CONMEBOL (M),Tue,Away,W,2,0,ve Venezuela,,,,,,,Víctor Carrillo
+2016-11-10,21:45 (18:45),WCQ,WCQ — CONMEBOL (M),Thu,Home,W,3,0,ar Argentina,,,,,,,Julio Bascuñán
+2016-11-15,21:15,WCQ,WCQ — CONMEBOL (M),Tue,Away,W,2,0,pe Peru,,,,,,,Wilmar Roldán
+2017-03-23,20:00 (19:00),WCQ,WCQ — CONMEBOL (M),Thu,Away,W,4,1,uy Uruguay,,,,,,,Patricio Loustau
+2017-03-28,21:45 (20:45),WCQ,WCQ — CONMEBOL (M),Tue,Home,W,3,0,py Paraguay,,,,,,,Víctor Carrillo
+2017-08-31,21:45 (20:45),WCQ,WCQ — CONMEBOL (M),Thu,Home,W,2,0,ec Ecuador,,,,,,,Mario Díaz de Vivar
+2017-09-05,15:30 (16:30),WCQ,WCQ — CONMEBOL (M),Tue,Away,D,1,1,co Colombia,,,,,,,Jesús Valenzuela
+2017-10-05,16:00,WCQ,WCQ — CONMEBOL (M),Thu,Away,D,0,0,bo Bolivia,,,,,,,Fernando Rapallini
+2017-10-10,20:30 (19:30),WCQ,WCQ — CONMEBOL (M),Tue,Home,W,3,0,cl Chile,,,,,,,Juan Bravo
+2018-03-23,19:00 (12:00),Friendlies (M),Friendlies (M),Fri,Away,W,3,0,ru Russia,,,,"59,263",Alisson,4-3-3,Aliaksei Kulbakou
+2018-03-27,20:45 (14:45),Friendlies (M),Friendlies (M),Tue,Away,W,1,0,de Germany,,,,"72,717",Thiago Silva,4-3-3,Jonas Eriksson
+2018-06-03,15:00 (10:00),Friendlies (M),Friendlies (M),Sun,Home,W,2,0,hr Croatia,,,,"54,000",Gabriel Jesus,4-1-4-1,Michael Oliver
+2018-06-10,16:00 (10:00),Friendlies (M),Friendlies (M),Sun,Away,W,3,0,at Austria,,,,"48,500",Miranda,4-1-4-1,Viktor Kassai
+2018-06-17,21:00 (14:00),FIFA World Cup,Group stage,Sun,Neutral,D,1,1,ch Switzerland,2.2,0.9,54,"43,109",Marcelo,4-3-3,César Ramos
+2018-06-22,15:00 (08:00),FIFA World Cup,Group stage,Fri,Neutral,W,2,0,cr Costa Rica,2.6,0.1,71,"64,468",Thiago Silva,4-3-3,Björn Kuipers
+2018-06-27,21:00 (14:00),FIFA World Cup,Group stage,Wed,Neutral,W,2,0,rs Serbia,1.4,0.8,58,"44,190",Miranda,4-3-3,Alireza Faghani
+2018-07-02,18:00 (10:00),FIFA World Cup,Round of 16,Mon,Neutral,W,2,0,mx Mexico,2.7,0.7,49,"41,970",Thiago Silva,4-3-3,Gianluca Rocchi
+2018-07-06,21:00 (14:00),FIFA World Cup,Quarter-finals,Fri,Neutral,L,1,2,be Belgium,2.8,0.5,58,"42,873",Miranda,4-3-3,Milorad Mažić
+2018-09-07,19:30,Friendlies (M),Friendlies (M),Fri,Away,W,2,0,us United States,,,,"32,489",Neymar,4-3-3,Fernando Guerrero
+2018-09-11,20:30,Friendlies (M),Friendlies (M),Tue,Home,W,5,0,sv El Salvador,,,,"28,511",Neymar,4-3-3,Jair Marrufo
+2018-10-12,21:00 (14:00),Friendlies (M),Friendlies (M),Fri,Away,W,2,0,sa Saudi Arabia,,,,"23,401",Neymar,4-1-4-1,Danny Makkelie
+2018-11-16,20:00 (15:00),Friendlies (M),Friendlies (M),Fri,Home,W,1,0,uy Uruguay,,,,,Neymar,4-3-3,Craig Pawson
+2018-11-20,19:30 (14:30),Friendlies (M),Friendlies (M),Tue,Home,W,1,0,cm Cameroon,,,,,Neymar,4-1-4-1,Michael Oliver
+2017-01-25,21:45 (18:45),Friendlies (M),Friendlies (M),Wed,Home,W,1,0,co Colombia,,,,"18,695",Robinho,4-1-4-1,Jorge Baliño
+2017-03-23,20:00 (19:00),WCQ,WCQ — CONMEBOL (M),Thu,Away,W,4,1,uy Uruguay,,,,,,,Patricio Loustau
+2017-03-28,21:45 (20:45),WCQ,WCQ — CONMEBOL (M),Tue,Home,W,3,0,py Paraguay,,,,,,,Víctor Carrillo
+2017-06-13,20:05 (06:05),Friendlies (M),Friendlies (M),Tue,Away,W,4,0,au Australia,,,,"49,874",Philippe Coutinho,4-1-4-1,Mark Clattenburg
+2017-08-31,21:45 (20:45),WCQ,WCQ — CONMEBOL (M),Thu,Home,W,2,0,ec Ecuador,,,,,,,Mario Díaz de Vivar
+2017-09-05,15:30 (16:30),WCQ,WCQ — CONMEBOL (M),Tue,Away,D,1,1,co Colombia,,,,,,,Jesús Valenzuela
+2017-10-05,16:00,WCQ,WCQ — CONMEBOL (M),Thu,Away,D,0,0,bo Bolivia,,,,,,,Fernando Rapallini
+2017-10-10,20:30 (19:30),WCQ,WCQ — CONMEBOL (M),Tue,Home,W,3,0,cl Chile,,,,,,,Juan Bravo
+2017-11-10,13:00 (07:00),Friendlies (M),Friendlies (M),Fri,Away,W,3,1,jp Japan,,,,,Willian,4-1-4-1,Benoît Bastien
+2017-11-14,20:00 (15:00),Friendlies (M),Friendlies (M),Tue,Away,D,0,0,eng England,,,,"84,595",Dani Alves,4-3-3,Artur Soares Dias
+2016-03-25,21:45 (20:45),WCQ,WCQ — CONMEBOL (M),Fri,Home,D,2,2,uy Uruguay,,,,,,,Néstor Pitana
+2016-03-29,20:45,WCQ,WCQ — CONMEBOL (M),Tue,Away,D,2,2,py Paraguay,,,,,,,Wilmar Roldán
+2016-05-29,19:30 (21:30),Friendlies (M),Friendlies (M),Sun,Away,W,2,0,pa Panama,,,,"11,000",Miranda,4-1-4-1,Armando Castro
+2016-06-04,19:00 (22:00),Copa América Centenario,Group stage,Sat,Home,D,0,0,ec Ecuador,,,70,"53,158",Dani Alves,4-1-4-1,Julio Bascuñán
+2016-06-08,19:30,Copa América Centenario,Group stage,Wed,Home,W,7,1,ht Haiti,,,65,"28,241",Dani Alves,4-1-4-1,Mark Geiger
+2016-06-12,20:30,Copa América Centenario,Group stage,Sun,Home,L,0,1,pe Peru,,,66,"36,187",Miranda,4-2-3-1,Andrés Cunha
+2016-09-01,16:00 (17:00),WCQ,WCQ — CONMEBOL (M),Thu,Away,W,3,0,ec Ecuador,,,,,,,Enrique Cáceres
+2016-09-06,20:45,WCQ,WCQ — CONMEBOL (M),Tue,Home,W,2,1,co Colombia,,,,,,,Patricio Loustau
+2016-10-06,21:45 (20:45),WCQ,WCQ — CONMEBOL (M),Thu,Home,W,5,0,bo Bolivia,,,,"30,013",,,Wilson Lamouroux
+2016-10-11,20:30,WCQ,WCQ — CONMEBOL (M),Tue,Away,W,2,0,ve Venezuela,,,,,,,Víctor Carrillo
+2016-11-10,21:45 (18:45),WCQ,WCQ — CONMEBOL (M),Thu,Home,W,3,0,ar Argentina,,,,,,,Julio Bascuñán
+2016-11-15,21:15,WCQ,WCQ — CONMEBOL (M),Tue,Away,W,2,0,pe Peru,,,,,,,Wilmar Roldán
+2015-03-26,21:00 (16:00),Friendlies (M),Friendlies (M),Thu,Away,W,3,1,fr France,,,,"81,338",Neymar,4-2-3-1,Nicola Rizzoli
+2015-03-29,15:00 (10:00),Friendlies (M),Friendlies (M),Sun,Home,W,1,0,cl Chile,,,,"60,007",Neymar,4-2-2-2,Martin Atkinson
+2015-06-07,17:00 (16:00),Friendlies (M),Friendlies (M),Sun,Home,W,2,0,mx Mexico,,,,"34,659",David Luiz,4-2-3-1,Julio Quintana
+2015-06-10,22:00 (21:00),Friendlies (M),Friendlies (M),Wed,Home,W,1,0,hn Honduras,,,,"22,305",David Luiz,4-2-3-1,Gery Vargas
+2015-06-14,18:30 (17:30),Copa América,Group stage,Sun,Neutral,W,2,1,pe Peru,,,83,"16,342",Neymar,4-2-3-1,Roberto García
+2015-06-17,21:00 (20:00),Copa América,Group stage,Wed,Neutral,L,0,1,co Colombia,,,57,"44,008",Neymar,4-2-3-1,Enrique Osses
+2015-06-21,18:30 (17:30),Copa América,Group stage,Sun,Neutral,W,2,1,ve Venezuela,,,56,"33,284",Miranda,4-2-3-1,Enrique Cáceres
+2015-06-27,18:30 (17:30),Copa América,Quarter-finals,Sat,Neutral,D,1 (3),1 (4),py Paraguay,,,52,"29,276",Miranda,4-2-3-1,Andrés Cunha
+2015-09-05,16:00,Friendlies (M),Friendlies (M),Sat,Neutral,W,1,0,cr Costa Rica,,,,"19,600",Miranda,4-2-3-1,Mathieu Bourdeau
+2015-09-08,20:40,Friendlies (M),Friendlies (M),Tue,Away,W,4,1,us United States,,,,"29,308",Miranda,4-2-3-1,Joel Aguilar
+2015-10-08,20:30 (19:30),WCQ,WCQ — CONMEBOL (M),Thu,Away,L,0,2,cl Chile,,,,,,,Roddy Zambrano
+2015-10-13,22:00 (21:00),WCQ,WCQ — CONMEBOL (M),Tue,Home,W,3,1,ve Venezuela,,,,,,,Darío Ubríaco
+2015-11-13,21:00 (19:00),WCQ,WCQ — CONMEBOL (M),Fri,Away,D,1,1,ar Argentina,,,,,,,Antonio Arias
+2015-11-17,21:00 (19:00),WCQ,WCQ — CONMEBOL (M),Tue,Home,W,3,0,pe Peru,,,,,,,Hernando Buitrago
+2014-03-05,19:00 (12:00),Friendlies (M),Friendlies (M),Wed,Away,W,5,0,za South Africa,,,,"67,616",Thiago Silva,4-2-3-1,António Caxala
+2014-06-03,16:00 (15:00),Friendlies (M),Friendlies (M),Tue,Home,W,4,0,pa Panama,,,,"20,000",David Luiz,4-2-3-1,Raúl Orozco
+2014-06-06,16:00 (15:00),Friendlies (M),Friendlies (M),Fri,Home,W,1,0,rs Serbia,,,,"67,042",Thiago Silva,4-2-3-1,Enrique Cáceres
+2014-06-12,17:00 (16:00),FIFA World Cup,Group stage,Thu,Neutral,W,3,1,hr Croatia,,,58,"62,103",,4-2-3-1,Yuichi Nishimura
+2014-06-17,16:00 (15:00),FIFA World Cup,Group stage,Tue,Neutral,D,0,0,mx Mexico,,,53,"60,342",,4-2-3-1,Cüneyt Çakιr
+2014-06-23,17:00 (16:00),FIFA World Cup,Group stage,Mon,Neutral,W,4,1,cm Cameroon,,,54,"69,112",,4-2-3-1,Jonas Eriksson
+2014-06-28,13:00 (12:00),FIFA World Cup,Round of 16,Sat,Neutral,D,1 (3),1 (2),cl Chile,,,49,"57,714",,4-2-3-1,Howard Webb
+2014-07-04,17:00 (16:00),FIFA World Cup,Quarter-finals,Fri,Neutral,W,2,1,co Colombia,,,51,"60,342",,4-2-3-1,Carlos Velasco
+2014-07-08,17:00 (16:00),FIFA World Cup,Semi-finals,Tue,Neutral,L,1,7,de Germany,,,51,"58,141",,4-2-3-1,Marco Antonio Rodríguez
+2014-07-12,17:00 (16:00),FIFA World Cup,Third-place match,Sat,Neutral,L,0,3,nl Netherlands,,,58,"68,034",,4-2-3-1,Djamel Haïmoudi
+2014-09-05,21:00,Friendlies (M),Friendlies (M),Fri,Home,W,1,0,co Colombia,,,,"73,429",Neymar,4-2-3-1,David Gantar
+2014-09-09,21:00,Friendlies (M),Friendlies (M),Tue,Home,W,1,0,ec Ecuador,,,,"35,975",Neymar,4-2-3-1,Edvin Jurisevic
+2014-10-14,18:45 (06:45),Friendlies (M),Friendlies (M),Tue,Away,W,4,0,jp Japan,,,,"51,577",Neymar,4-2-3-1,Ahmad A'Qashah
+2014-11-12,20:30 (13:30),Friendlies (M),Friendlies (M),Wed,Away,W,4,0,tr Türkiye,,,,"49,000",Neymar,4-2-2-2,Ravshan Irmatov
+2014-11-18,19:00 (13:00),Friendlies (M),Friendlies (M),Tue,Away,W,2,1,at Austria,,,,"48,500",Neymar,4-2-3-1,William Collum
+2013-06-15,16:00 (15:00),FIFA Confederations Cup,Group stage,Sat,Home,W,3,0,jp Japan,,,,"67,423",Thiago Silva,4-1-4-1,Pedro Proença
+2013-06-19,16:00 (15:00),FIFA Confederations Cup,Group stage,Wed,Home,W,2,0,mx Mexico,,,,"50,791",Thiago Silva,4-1-4-1,Howard Webb
+2013-06-22,16:00 (15:00),FIFA Confederations Cup,Group stage,Sat,Away,W,4,2,it Italy,,,,"48,874",Thiago Silva,4-2-3-1,Ravshan Irmatov
+2013-06-26,16:00 (15:00),FIFA Confederations Cup,Semi-finals,Wed,Home,W,2,1,uy Uruguay,,,,"57,483",Thiago Silva,4-2-3-1,Enrique Osses
+2013-06-30,19:00 (18:00),FIFA Confederations Cup,Final,Sun,Home,W,3,0,es Spain,,,,"73,531",Thiago Silva,4-2-3-1,Björn Kuipers
+2007-10-14,16:40 (17:40),WCQ,WCQ — CONMEBOL (M),Sun,Away,D,0,0,co Colombia,,,,"41,000",,,
+2007-10-17,22:00 (20:00),WCQ,WCQ — CONMEBOL (M),Wed,Home,W,5,0,ec Ecuador,,,,"87,000",,,
+2007-11-18,16:10,WCQ,WCQ — CONMEBOL (M),Sun,Away,D,1,1,pe Peru,,,,"45,847",,,
+2007-11-21,21:45 (18:45),WCQ,WCQ — CONMEBOL (M),Wed,Home,W,2,1,uy Uruguay,,,,"70,000",,,
+2008-06-15,15:00,WCQ,WCQ — CONMEBOL (M),Sun,Away,L,0,2,py Paraguay,,,,"38,000",,,
+2008-06-18,21:50 (20:50),WCQ,WCQ — CONMEBOL (M),Wed,Home,D,0,0,ar Argentina,,,,"62,170",,,
+2008-09-07,21:00,WCQ,WCQ — CONMEBOL (M),Sun,Away,W,3,0,cl Chile,,,,"60,239",,,
+2008-09-10,21:50 (20:50),WCQ,WCQ — CONMEBOL (M),Wed,Home,D,0,0,bo Bolivia,,,,"31,422",,,
+2008-10-12,15:30 (16:00),WCQ,WCQ — CONMEBOL (M),Sun,Away,W,4,0,ve Venezuela,,,,"38,000",,,
+2008-10-15,22:15 (21:15),WCQ,WCQ — CONMEBOL (M),Wed,Home,D,0,0,co Colombia,,,,"54,910",,,
+2009-03-29,16:00 (17:00),WCQ,WCQ — CONMEBOL (M),Sun,Away,D,1,1,ec Ecuador,,,,"40,000",,,
+2009-04-01,22:10 (21:10),WCQ,WCQ — CONMEBOL (M),Wed,Home,W,3,0,pe Peru,,,,"55,000",,,
+2009-06-06,16:00 (15:00),WCQ,WCQ — CONMEBOL (M),Sat,Away,W,4,0,uy Uruguay,,,,"52,000",,,
+2009-06-10,21:50 (20:50),WCQ,WCQ — CONMEBOL (M),Wed,Home,W,2,1,py Paraguay,,,,"56,682",,,
+2009-09-05,21:30 (20:30),WCQ,WCQ — CONMEBOL (M),Sat,Away,W,3,1,ar Argentina,,,,"37,000",,,
+2009-09-09,22:00 (21:00),WCQ,WCQ — CONMEBOL (M),Wed,Home,W,4,2,cl Chile,,,,"30,000",,,
+2009-10-11,16:00,WCQ,WCQ — CONMEBOL (M),Sun,Away,L,1,2,bo Bolivia,,,,"16,557",,,
+2009-10-14,18:00,WCQ,WCQ — CONMEBOL (M),Wed,Home,D,0,0,ve Venezuela,,,,"29,680",,,
+2010-06-15,20:30 (14:30),FIFA World Cup,Group stage,Tue,Neutral,W,2,1,kp Korea DPR,,,,"54,331",,4-2-3-1,
+2010-06-20,20:30 (14:30),FIFA World Cup,Group stage,Sun,Neutral,W,3,1,ci Côte d'Ivoire,,,,"84,455",,4-2-3-1,
+2010-06-25,16:00 (10:00),FIFA World Cup,Group stage,Fri,Neutral,D,0,0,pt Portugal,,,,"62,712",,4-2-3-1,
+2010-06-28,20:30 (14:30),FIFA World Cup,Round of 16,Mon,Neutral,W,3,0,cl Chile,,,,"54,096",,4-2-3-1,
+2010-07-02,16:00 (10:00),FIFA World Cup,Quarter-finals,Fri,Neutral,L,1,2,nl Netherlands,,,,"40,186",,4-2-3-1,
